@@ -27,9 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to AIS2 (Artificial Intelligence and Systems Security) Lab! <strong>AIS2Lab</strong> is a research team established by Assistant Professor [Daoyuan Wu](https://daoyuan14.github.io/) in the [Division of Industrial Data Science](https://www.ln.edu.hk/sds/dids), School of Data Science at [Lingnan University](https://www.ln.edu.hk/), one of the eight [UGC-funded universities](https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html) in Hong Kong.
-
-We use a systems security mindset to safeguard artificial intelligence in the era of Large Language Models (LLMs). Specifically, we focus on the following three areas:
+Welcome to <strong>AIS2 (Artificial Intelligence and Systems Security) Lab</strong>! AIS2Lab is a research team established by Assistant Professor [Daoyuan Wu](https://daoyuan14.github.io/) in the [Division of Industrial Data Science](https://www.ln.edu.hk/sds/dids), [School of Data Science](https://www.ln.edu.hk/sds) at [Lingnan University](https://www.ln.edu.hk/), one of the eight [UGC-funded universities](https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html) in Hong Kong.
+We use a systems security mindset to safeguard artificial intelligence in the era of Large Language Models (LLMs). Specifically, we focus on the following areas:
 
 <strong>Large Language Model and AI Security:</strong> LLMs for Cybersecurity; Security of LLMs; AI Safety.
 
@@ -37,8 +36,9 @@ We use a systems security mindset to safeguard artificial intelligence in the er
 
 <strong>GPU Software and Medical System Security:</strong> AI Infrastructure Security; Healthcare and Medical Security; EdgeAI Security.
 
-You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+#
+#Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#
+#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
