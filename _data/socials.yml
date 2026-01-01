@@ -12,10 +12,9 @@
 #cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: daoyuanwu@ln.edu.hk # your email address
 github_username: AIS2Lab # your GitHub user name
+email: daoyuanwu@ln.edu.hk # your email address
 scholar_userid: WtO-bN8AAAAJ # your Google Scholar ID
-work_url: https://scholars.ln.edu.hk/en/persons/daoyuan-wu/ # work page URL
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # gitlab_username: # your GitLab user name
@@ -28,6 +27,7 @@ work_url: https://scholars.ln.edu.hk/en/persons/daoyuan-wu/ # work page URL
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
+#work_url: https://scholars.ln.edu.hk/en/persons/daoyuan-wu/ # work page URL
 linkedin_username: daoyuan # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username

@@ -28,10 +28,15 @@ latest_posts:
 ---
 
 Welcome to <strong>AIS2 (Artificial Intelligence and Systems Security) Lab</strong>! AIS2Lab is an AI-oriented security research team established by [Asst Prof. Daoyuan Wu](https://daoyuan14.github.io/) in the [Division of Industrial Data Science](https://www.ln.edu.hk/sds/dids), [School of Data Science](https://www.ln.edu.hk/sds) at [Lingnan University](https://www.ln.edu.hk/), one of the eight [UGC-funded universities](https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html) in Hong Kong.
-We use <u>a systems security mindset</u> to safeguard artificial intelligence in the era of Large Language Models (LLMs). Specifically, we focus on the following areas:
 
-<strong>Large Language Model and AI Security:</strong> LLMs for Cybersecurity; Security of LLMs; AI Safety.
+We adopt <u>a systems security mindset</u> to advance the security and trustworthiness of artificial intelligence in the era of Large Language Models (LLMs). At AIS2Lab, we are committed to conducting inter-disciplinary research that integrates knowledge and methodologies from computer science, artificial intelligence, law, healthcare, and other related fields. Our work aims to address emerging security challenges and promote responsible innovation across both technical and societal domains.
+
+Specifically, our research focuses on the following key areas:
+
+<strong>Large Language Model and AI Security:</strong> LLMs for Cybersecurity; Security of LLMs; AI Safety; LLM + Law.
 
 <strong>Blockchain and Smart Contract Security:</strong> Chain & DeFi Security, Consensus Security, Transaction Compliance.
 
 <strong>GPU Software and Medical System Security:</strong> AI Infrastructure Security; Healthcare and Medical Security; EdgeAI Security.
+
+Through close collaboration with experts from diverse disciplines, AIS2Lab aims to build secure and responsible AI systems that benefit both technology and society.
