@@ -469,13 +469,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%64%61%6F%79%75%61%6E%77%75@%6C%6E.%65%64%75.%68%6B", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -483,18 +476,18 @@ ninja.data = [{
           window.open("https://github.com/AIS2Lab", "_blank");
         },
       },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%64%61%6F%79%75%61%6E%77%75@%6C%6E.%65%64%75.%68%6B", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=WtO-bN8AAAAJ", "_blank");
-        },
-      },{
-        id: 'social-work',
-        title: 'Work',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholars.ln.edu.hk/en/persons/daoyuan-wu/", "_blank");
         },
       },{
         id: 'social-linkedin',
