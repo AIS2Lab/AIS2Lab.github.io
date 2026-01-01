@@ -412,16 +412,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-pi-joined-lingnan-university-as-a-tenure-track-assistant-professor",
+          title: 'PI joined Lingnan University as a tenure-track Assistant Professor.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-four-papers-accepted-by-ieee-acm-ase-2025",
+          title: 'Four papers accepted by IEEE/ACM ASE 2025.',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/news_250926/";
+            },},{id: "news-a-new-lab-page-goes-online-sparkles-smile",
+          title: 'A new lab page goes online! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
