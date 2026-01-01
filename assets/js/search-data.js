@@ -420,8 +420,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/news_250926/";
-            },},{id: "news-a-new-lab-page-goes-online-sparkles-smile",
-          title: 'A new lab page goes online! :sparkles: :smile:',
+            },},{id: "news-our-lab-page-goes-online-sparkles-smile",
+          title: 'Our lab page goes online! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
