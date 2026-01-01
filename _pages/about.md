@@ -35,7 +35,7 @@ Specifically, our research focuses on the following key areas:
 
 <strong>Large Language Model and AI Security:</strong> LLMs for Cybersecurity; Security of LLMs; AI Safety; LLM + Law.
 
-<strong>Blockchain and Smart Contract Security:</strong> Chain & DeFi Security, Consensus Security, Transaction Compliance.
+<strong>Blockchain and Smart Contract Security:</strong> Chain & DeFi Security; Consensus Security; Transaction Compliance.
 
 <strong>GPU Software and Medical System Security:</strong> AI Infrastructure Security; Healthcare and Medical System Security.
 
