@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.ln.edu.hk/' target="_blank">Lingnan University</a>, Hong Kong SAR.
+subtitle: <a href="https://www.ln.edu.hk/" target="_blank">Lingnan University</a>, Hong Kong SAR.
 
 #profile:
 #  align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to <strong>AIS2 (Artificial Intelligence and Systems Security) Lab</strong>! AIS2Lab is a research team established by [Asst Prof. Daoyuan Wu](https://daoyuan14.github.io/) in the [Division of Industrial Data Science](https://www.ln.edu.hk/sds/dids), [School of Data Science](https://www.ln.edu.hk/sds) at [Lingnan University](https://www.ln.edu.hk/), one of the eight [UGC-funded universities](https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html) in Hong Kong.
+Welcome to <strong>AIS2 (Artificial Intelligence and Systems Security) Lab</strong>! AIS2Lab is an AI-oriented security research team established by [Asst Prof. Daoyuan Wu](https://daoyuan14.github.io/) in the [Division of Industrial Data Science](https://www.ln.edu.hk/sds/dids), [School of Data Science](https://www.ln.edu.hk/sds) at [Lingnan University](https://www.ln.edu.hk/), one of the eight [UGC-funded universities](https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html) in Hong Kong.
 We use <u>a systems security mindset</u> to safeguard artificial intelligence in the era of Large Language Models (LLMs). Specifically, we focus on the following areas:
 
 <strong>Large Language Model and AI Security:</strong> LLMs for Cybersecurity; Security of LLMs; AI Safety.
