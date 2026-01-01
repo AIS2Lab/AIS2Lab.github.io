@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Homepage 
+title: Home
 permalink: /
-subtitle: <a href='#'>Lingnan University</a>, Hong Kong SAR.
+subtitle: <a href='https://www.ln.edu.hk/' target="_blank">Lingnan University</a>, Hong Kong SAR.
 
 #profile:
 #  align: right
