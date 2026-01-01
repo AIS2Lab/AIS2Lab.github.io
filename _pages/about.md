@@ -27,7 +27,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to AIS2 (Artificial Intelligence and Systems Security) Lab! <strong>AIS2Lab</strong> is a research team established by Assistant Professor [Daoyuan Wu](https://daoyuan14.github.io/) in the [Division of Industrial Data Science](https://www.ln.edu.hk/sds/dids), School of Data Science at [Lingnan University](https://www.ln.edu.hk/), one of the eight [UGC-funded universities](https://www.ugc.edu.hk/eng/ugc/site/fund_inst.html) in Hong Kong.
+
+We use a systems security mindset to safeguard artificial intelligence in the era of Large Language Models (LLMs). Specifically, we focus on the following three areas:
+
+<strong>Large Language Model and AI Security:</strong> LLMs for Cybersecurity; Security of LLMs; AI Safety.
+
+<strong>Blockchain and Smart Contract Security:</strong> Chain & DeFi Security, Consensus Security, Transaction Compliance.
+
+<strong>GPU Software and Medical System Security:</strong> AI Infrastructure Security; Healthcare and Medical Security; EdgeAI Security.
+
+You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
