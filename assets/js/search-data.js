@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-funding-amp-award",
-          title: "Funding &amp; Award",
+        },{id: "nav-funding",
+          title: "Funding",
           description: "",
           section: "Navigation",
           handler: () => {
