@@ -2,9 +2,9 @@
 layout: page
 title: Projects
 nav: true
-nav_order: 6
+nav_order: 7
 dropdown: true
 children:
-  - title: Project
-    permalink: /project/
+  - title: LLM4Sec 
+    permalink: /llm4sec/
 ---

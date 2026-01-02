@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project
-permalink: /project/
+title: LLM4Sec
+permalink: /llm4sec/
 description: A growing collection of your cool projects.
 display_categories: [work, fun]
 horizontal: false
