@@ -15,7 +15,7 @@ nav_order: 6
 
 2. <strong>Co-I</strong>. RGC General Research Fund (GRF) [2025/26](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11603825&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=11603825).
 
-3. <strong>PI</strong>. Stellar SDF Academic Research Award [2025 Q3](https://research.stellar.org/research-grants/grantees) [I was initially awarded for the round of 2025 Q1, withdrawn due to leaving HKUST, and then re-applied and re-awarded in 2025 Q3].
+3. <strong>PI</strong>. Stellar SDF Academic Research Award [2025 Q3](https://research.stellar.org/research-grants/grantees) [Initially awarded in the 2025 Q1 round, withdrawn due to leaving HKUST, then re-applied and re-awarded in 2025 Q3].
 
 4. <strong>PI</strong>. CCF-Huawei Populus Grove Fund for Systems [2025](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2025-06-06/844102.shtml).
 
