@@ -6,8 +6,6 @@ nav: true
 nav_order: 6
 ---
 
----
-## Funding
 
 > Ongoing
 
@@ -25,7 +23,7 @@ nav_order: 6
 
 7. <strong>PI</strong>. Lingnan Faculty Research Grant 2025.
 
-8. <strong>PI</strong>. Lingnan Professional Allowance, added with SDS Staff Publication Reward Scheme.
+8. <strong>PI</strong>. Lingnan Professional Allowance Fund, added with SDS Staff Publication Reward Scheme.
 
 9. Lingnan PhD Student Fund.
 
@@ -46,7 +44,7 @@ nav_order: 6
 
 
 ---
-## Award
+# Award
 
 Stellar SDF Academic Research Award, 2025.
 
@@ -65,6 +63,6 @@ The official acknowledgement letter from the Hong Kong Jockey Club for a serious
 
 
 ---
-## CVEs
+# CVEs
 
 To be listed.
