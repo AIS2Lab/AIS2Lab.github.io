@@ -9,7 +9,7 @@ nav_order: 6
 ---
 ## Funding
 
-#### Ongoing
+> Ongoing
 
 1. <strong>Co-PI</strong>. RGC Collaborative Research Fund (CRF) [2025/26](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/25-26.html).
 
@@ -25,13 +25,14 @@ nav_order: 6
 
 7. <strong>PI</strong>. Lingnan Faculty Research Grant 2025.
 
-8. <strong>PI</strong>. Lingnan PhD Student Fund.
+8. <strong>PI</strong>. Lingnan Professional Allowance, added with SDS Staff Publication Reward Scheme.
 
-9. <strong>PI</strong>. Lingnan Professional Allowance.
+9. Lingnan PhD Student Fund.
 
-10. Lingnan Presidential Postdoc Quota; SDS Staff Publication Reward Scheme.
+10. Lingnan Presidential Postdoc Quota.
 
-#### Completed
+
+> Completed
 
 1. <strong>PI</strong>. UGC-funded HKUST Teaching and Learning Innovation Projects (TLIP) [2024/25](https://cei.hkust.edu.hk/en-hk/projects-and-funding/teaching-and-learning-innovative-projects/funded-projects?field_project_year_target_id%5B%5D=287).
 
