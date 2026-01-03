@@ -16,21 +16,39 @@ profiles:
     more_info: >
       <p>PI of AIS2Lab</p>
   - align: left
-    image: pic_cuifeng.jpg
+    image: pic_cuifeng.jpeg
     content: about_cuifeng.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
     more_info: >
       <p>Incoming Postdoc</p>
   - align: left
     image: pic_placeholder.png
     content: about_juantao.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
     more_info: >
       <p>Research Assistant</p>
   - align: left
     image: pic_placeholder.png
     content: about_yufan.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
     more_info: >
       <p>Research Assistant</p>
+  - align: left
+    image: pic_wenxin.jpeg
+    content: about_wenxin.md
+    image_circular: false
+    more_info: >
+      <p>Research Assistant</p>
+  - align: left
+    image: pic_yixuan.jpeg
+    content: about_yixuan.md
+    image_circular: false
+    more_info: >
+      <p>Remote Intern</p>
+  - align: left
+    image: pic_haoyuan.jpeg
+    content: about_haoyuan.md
+    image_circular: false
+    more_info: >
+      <p>Remote Intern</p>
 ---
