@@ -1,5 +1,5 @@
-[Yixuan Yang](https://scholar.google.com/citations?hl=en&user=06muG4sAAAAJ) has been a remote intern at AIS2Lab since June 2025, supported by an open fund. He is pursuing his MSc degree at the University of Twente and EURECOM. He obtained his Bachelor's degree from Nanjing University of Science and Technology (211) in 2024.
+[Haoyuan Li](https://github.com/GowayLee) has been a Remote Intern at AIS2Lab since October 2025, supported by an open fund. He is currently a final-year undergraduate student at Xiamen University Malaysia. He will pursue his Master's degree at the Institute of Computing Technology, Chinese Academy of Sciences in September 2026.
 
-He has published in Computers & Security 2025.
+He is a key contributor to the CCF-Huawei project.
 
-His main research focus is on MCP security and IoT security.
+His main research focus is on (intelligent) program analysis.
