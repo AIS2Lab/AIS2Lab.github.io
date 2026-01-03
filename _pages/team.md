@@ -51,4 +51,10 @@ profiles:
     image_circular: false
     more_info: >
       <p>Remote Intern</p>
+  - align: left
+    image: pic_placeholder.png
+    content: about_yanzhao.md
+    image_circular: false
+    more_info: >
+      <p>Incoming PhD Student</p>
 ---
