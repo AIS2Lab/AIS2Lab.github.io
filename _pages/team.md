@@ -28,7 +28,7 @@ profiles:
     more_info: >
       <p>Research Assistant</p>
   - align: left
-    image: pic_placeholder.png
+    image: pic_yufan.png
     content: about_yufan.md
     image_circular: false
     more_info: >
