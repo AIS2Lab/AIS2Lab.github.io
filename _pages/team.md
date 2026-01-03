@@ -57,4 +57,22 @@ profiles:
     image_circular: false
     more_info: >
       <p>Incoming PhD Student</p>
+  - align: left
+    image: pic_placeholder.png
+    content: about_jialu.md
+    image_circular: false
+    more_info: >
+      <p>DAIS PhD Student</p>
+  - align: left
+    image: pic_placeholder.png
+    content: about_pengyu.md
+    image_circular: false
+    more_info: >
+      <p>DAIS PhD Student</p>
+  - align: left
+    image: pic_placeholder.png
+    content: about_zhuhe.md
+    image_circular: false
+    more_info: >
+      <p>DAIS PhD Student</p>
 ---
