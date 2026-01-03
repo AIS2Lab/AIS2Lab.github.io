@@ -22,8 +22,14 @@ profiles:
     more_info: >
       <p>Incoming Postdoc</p>
   - align: left
-    image: pic_placeholder.jpg
+    image: pic_placeholder.png
     content: about_juantao.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Research Assistant</p>
+  - align: left
+    image: pic_placeholder.png
+    content: about_yufan.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Research Assistant</p>
