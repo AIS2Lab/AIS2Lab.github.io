@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
   var detailStr = [];
   for (var key in bigFourCounts) {
-    if (bigFourCounts[key] > 0) detailStr.push(key + "*" + bigFourCounts[key]);
+    if (bigFourCounts[key] > 0) detailStr.push(key + "×" + bigFourCounts[key]);
   }
   if(detailStr.length > 0)
     document.getElementById("big-four-detail").textContent = " (" + detailStr.join(", ") + ")";
@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
   var seDetailStr = [];
   for (var key in topSeConfCounts) {
-    if (topSeConfCounts[key] > 0) seDetailStr.push(key + "*" + topSeConfCounts[key]);
+    if (topSeConfCounts[key] > 0) seDetailStr.push(key + "×" + topSeConfCounts[key]);
   }
   if(seDetailStr.length > 0)
     document.getElementById("top-se-conf-detail").textContent = " (" + seDetailStr.join(", ") + ")";
