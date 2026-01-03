@@ -34,7 +34,7 @@ nav_order: 7
 
 1. <strong>PI</strong>. UGC-funded HKUST Teaching and Learning Innovation Projects (TLIP) [2024/25](https://cei.hkust.edu.hk/en-hk/projects-and-funding/teaching-and-learning-innovative-projects/funded-projects?field_project_year_target_id%5B%5D=287).
 
-2. <strong>Co-PI</strong>. UGC Special Grant for Strategic Development of Virtual Teaching and Learning, 2021-23.
+2. <strong>Co-PI</strong>. UGC Special Grant for Strategic Development of Virtual Teaching and Learning (VTL), 2021-23.
 
 3. <strong>PI</strong>. UGC-funded CUHK Courseware Development Grant (CDG), [2019-22](https://www.cuhk.edu.hk/eLearning/c_tnl/cdgs/2019-22(Round%202)/report/010%20Final%20brief%20write%20up.pdf).
 

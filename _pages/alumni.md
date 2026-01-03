@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 
-
+---
 > Postdoc Researchers
 
 1. Dr. [Han Liu](https://helayliu.github.io/): 2024.09-2025.12 at UST, co-hosted with Prof. Shuai Wang, partially supported by the TLIP project with 150K HKD; Next: continue doing Postdoc at UST.
@@ -47,6 +47,6 @@ nav_order: 3
 
 > UG Students
 
-1. Mr. [Xu Yang](https://github.com/yx018): 2021 - 2022 at CUHK; Next: ASTRI.
+1. Mr. [Xu Yang](https://github.com/yx018): 2021 - 2022 at CUHK; Next: ASTRI. He is the key contributor to CUHK's CDG and VTL projects.
 
 2. Mr. [Yufan Chen](https://github.com/fan-14): 2021 - 2022 at Xidian, co-advised with Prof. Haoyu Ma; Next: SMU.
