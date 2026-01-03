@@ -2,9 +2,11 @@
 layout: page
 permalink: /alumni/
 title: Alumni
+description: Past members of the AIS2 Lab
 nav: true
 nav_order: 3
 ---
+
 
 
 > Postdoc Researchers
@@ -12,7 +14,8 @@ nav_order: 3
 1. Dr. [Han Liu](https://helayliu.github.io/): 2024.09-2025.12 at UST, co-hosted with Prof. Shuai Wang, partially supported by the TLIP project with 150K HKD; Next: continue doing Postdoc at UST.
 
 
-> PhD Students
+
+> PhD/MPhil Students
 
 1. Dr. [Xiao Yi](https://scholar.google.com/citations?user=KrNWJyIAAAAJ&hl=en): AIS2Lab's first PhD student, 2019-23 at CUHK; First job: researcher at Huawei HKRC.
 
@@ -21,6 +24,7 @@ nav_order: 3
 3. Dr. [Yuqiang Sun](https://aboutme.izaiahsun.com/): 2023.03-2025.08 at NTU, co-advised with Prof. Yang Liu; First job: postdoc at NTU.
 
 4. Dr. [Han Liu](https://helayliu.github.io/): 2023.04-2024.06 at NTU as an exchange student, co-advised with Prof. Yang Liu; First job: postdoc at HKUST.
+
 
 
 > Research Assistants 
@@ -38,6 +42,7 @@ nav_order: 3
 2. 2020 - 2021: Yan Wu (EuroS&P'24; Next: Morgan Stanley China), Siqin Li (explored FPS security).
 
 3. 2021 - 2022: Lu Zhang (helped MagicCrypto; Next: OKX Hong Kong).
+
 
 
 > UG Students
