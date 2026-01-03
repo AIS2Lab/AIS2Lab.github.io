@@ -1,6 +1,9 @@
 <div style="background-color: #f3f4f6; border-left: 4px solid #6c63ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 8px;">
-  <strong>Big-four security conf papers: <span id="big-four-count"></span></strong>
+    <strong>Big-four security conf</strong> (S\&P, USENIX Security, CCS, NDSS) <strong>papers: <span id="big-four-count"></span></strong>
+    <br>
+    <strong>Top-tier SE conf</strong> (ICSE, FSE, ASE, ISSTA) <strong>papers: <span id="top-se-conf-count"></span></strong>
 </div>
+
 <ul id="big-four-list" style="display: none;">
   {% bibliography --group_by none --query @*[big_four=true]* %}
 </ul>
@@ -8,5 +11,15 @@
   document.addEventListener("DOMContentLoaded", function() {
     var count = document.querySelectorAll("#big-four-list li").length;
     document.getElementById("big-four-count").textContent = count;
+  });
+</script>
+
+<ul id="top-se-conf-list" style="display: none;">
+  {% bibliography --group_by none --query @*[top_se_conf=true]* %}
+</ul>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var count = document.querySelectorAll("#top-se-conf-list li").length;
+    document.getElementById("top-se-conf-count").textContent = count;
   });
 </script>
