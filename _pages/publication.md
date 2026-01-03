@@ -9,16 +9,16 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
+<div style="background: #ffefc2; padding: 1em; font-size:1.2em;">
+Stat test!<br>
 {% assign big_four_count = 0 %}
 {% for entry in site.bibliography %}
   {% if entry.big_four == true or entry.big_four == "true" %}
     {% assign big_four_count = big_four_count | plus: 1 %}
   {% endif %}
 {% endfor %}
-
 Big-four security conf papers: {{ big_four_count }};<br>
-Top-tier SE conf papers: ;<br>
-Top-tier PL conf papers: .
+</div>
 
 <!-- Bibsearch Feature -->
 

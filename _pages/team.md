@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /team/
 title: Team 
-description: members of the lab or group
+description: PI and members of the AIS2 Lab
 nav: true
 nav_order: 2
 
