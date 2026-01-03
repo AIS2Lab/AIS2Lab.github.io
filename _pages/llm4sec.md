@@ -7,7 +7,7 @@ description: Publications related to <strong>LLMs for Cybersecurity</strong>.
 
 <div style="text-align: left; margin: 2em 0 2em 0;">
   <img src="/assets/img/llm4sec_banner.png" alt="LLM4Sec Banner"
-    style="max-width: 550px; width: 90%; border-radius: 16px; box-shadow: 0 2px 12px #eee;">
+    style="max-width: 550px; width: 100%; border-radius: 16px; box-shadow: 0 2px 12px #eee;">
 </div>
 
 ---
