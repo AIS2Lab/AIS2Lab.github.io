@@ -9,6 +9,17 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
+{% assign big_four_count = 0 %}
+{% for entry in site.bibliography %}
+  {% if entry.big_four == true or entry.big_four == "true" %}
+    {% assign big_four_count = big_four_count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+Big-four security conf papers: {{ big_four_count }};<br>
+Top-tier SE conf papers: ;<br>
+Top-tier PL conf papers: .
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
