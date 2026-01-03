@@ -14,7 +14,7 @@ profiles:
     content: about_daoyuan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>PI of AIS2Lab, AP</p>
+      <p>PI of AIS2Lab</p>
   - align: left
     image: pic_cuifeng.jpg
     content: about_einstein.md
