@@ -1,25 +1,78 @@
 <div style="background-color: #f3f4f6; border-left: 4px solid #6c63ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 8px;">
-    <strong>Big-four security conf</strong> (S\&P, USENIX Security, CCS, NDSS) <strong>papers: <span id="big-four-count"></span></strong>
-    <br>
-    <strong>Top-tier SE conf</strong> (ICSE, FSE, ASE, ISSTA) <strong>papers: <span id="top-se-conf-count"></span></strong>
+  <strong>Big-four security conf papers: <span id="big-four-count"></span></strong>
+  <span id="big-four-detail"></span>
+  <br>
+  <strong>Top-tier SE conf papers: <span id="top-se-conf-count"></span></strong>
+  <span id="top-se-conf-detail"></span>
 </div>
 
+<!-- hidden list for Big-four security confs -->
 <ul id="big-four-list" style="display: none;">
   {% bibliography --group_by none --query @*[big_four=true]* %}
 </ul>
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var count = document.querySelectorAll("#big-four-list li").length;
-    document.getElementById("big-four-count").textContent = count;
-  });
-</script>
-
+<!-- hidden list for top SE confs -->
 <ul id="top-se-conf-list" style="display: none;">
   {% bibliography --group_by none --query @*[top_se_conf=true]* %}
 </ul>
+
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var count = document.querySelectorAll("#top-se-conf-list li").length;
-    document.getElementById("top-se-conf-count").textContent = count;
+document.addEventListener("DOMContentLoaded", function() {
+  // ---- Big-four ----
+  var bigFourConfAbbrs = ["S&P", "USENIX Security", "CCS", "NDSS"];
+  var abbrMap = {
+    "S&P": ["S&P", "S\\&P", "S&amp;P"],  // 兼容各种bibtex转义
+    "USENIX Security": ["USENIX Security", "USENIX"],
+    "CCS": ["CCS"],
+    "NDSS": ["NDSS"]
+  };
+
+  var bigFourCounts = { "S&P": 0, "USENIX Security": 0, "CCS": 0, "NDSS": 0 };
+
+  var bigFourList = document.querySelectorAll("#big-four-list li");
+  document.getElementById("big-four-count").textContent = bigFourList.length;
+
+  bigFourList.forEach(function(li) {
+    // 直接取 badge 内容
+    var abbrNode = li.querySelector(".abbr .badge, .abbr div, .abbr abbr");
+    if (!abbrNode) return;
+    var abbrText = abbrNode.textContent.trim().replace(/[\*\s]/g, "");
+    // 归一化判断
+    for (var key in abbrMap) {
+      abbrMap[key].forEach(function(variant) {
+        if (abbrText === variant.replace(/[\*\s]/g, "")) {
+          bigFourCounts[key]++;
+        }
+      });
+    }
   });
+
+  var detailStr = [];
+  for (var key in bigFourCounts) {
+    if (bigFourCounts[key] > 0) detailStr.push(key + "*" + bigFourCounts[key]);
+  }
+  if(detailStr.length > 0)
+    document.getElementById("big-four-detail").textContent = " (" + detailStr.join(", ") + ")";
+  
+  // ---- Top SE confs ----
+  var topSeConfAbbrs = ["ICSE", "FSE", "ASE", "ISSTA"];
+  var topSeConfCounts = { "ICSE": 0, "FSE": 0, "ASE": 0, "ISSTA": 0 };
+  var topSeConfList = document.querySelectorAll("#top-se-conf-list li");
+  document.getElementById("top-se-conf-count").textContent = topSeConfList.length;
+
+  topSeConfList.forEach(function(li) {
+    var abbrNode = li.querySelector(".abbr .badge, .abbr div, .abbr abbr");
+    if (!abbrNode) return;
+    var abbrText = abbrNode.textContent.trim().replace(/[\*\s]/g, "");
+    topSeConfAbbrs.forEach(function(conf) {
+      if (abbrText === conf) topSeConfCounts[conf]++;
+    });
+  });
+
+  var seDetailStr = [];
+  for (var key in topSeConfCounts) {
+    if (topSeConfCounts[key] > 0) seDetailStr.push(key + "*" + topSeConfCounts[key]);
+  }
+  if(seDetailStr.length > 0)
+    document.getElementById("top-se-conf-detail").textContent = " (" + seDetailStr.join(", ") + ")";
+});
 </script>
