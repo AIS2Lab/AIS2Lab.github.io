@@ -9,21 +9,9 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
-<div style="background-color: #f3f4f6; border-left: 4px solid #6c63ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 8px;">
-Stat test!<br>
-{% assign big_four_count = 0 %}
-{% for entry in site.bibliography %}
-  {% if entry.big_four == true or entry.big_four == "true" %}
-    {% assign big_four_count = big_four_count | plus: 1 %}
-  {% endif %}
-{% endfor %}
+{% include pubstats.liquid %}
 
-Big-four security conf papers: {{ big_four_count }};<br>
-</div>
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
+{% include bib_search.liquid %} <!-- Bibsearch Feature -->
 
 <div class="publications">
 

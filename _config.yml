@@ -288,14 +288,6 @@ scholar:
   group_by: year
   group_order: descending
 
-  custom_fields:
-    - big_four
-    - abbr
-    - selected
-    - bibtex_show
-    - award
-    - award_name
-
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
