@@ -11,7 +11,7 @@ nav_order: 3
 ---
 > Postdoc Researchers
 
-1. Dr. [Han Liu](https://helayliu.github.io/): 2024.09-2025.12 at UST, co-hosted with Prof. Shuai Wang, partially supported by the TLIP project with 150K HKD; Next: continue doing Postdoc at UST.
+1. Dr. [Han Liu](https://helayliu.github.io/): 2024.09-2025.12 at HKUST, co-hosted with Prof. Shuai Wang, partially supported by the TLIP project with 150K HKD; Next: continue as a postdoctoral researcher at UST.
 
 
 
