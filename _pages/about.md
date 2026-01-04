@@ -51,6 +51,6 @@ We are hiring <strong>one Postdoc</strong> or <strong>two RAs</strong> who (aspi
 Additionally, there is <strong>one extra fully-funded PhD opening</strong> (on top of the current hirings: one PhD student funded by LU PhD Student Fund, plus one self-financed PhD).
 If you are passionate about AI, security, or interdisciplinary research and interested in these positions, feel free to <a href="mailto:daoyuanwu@ln.edu.hk">email us</a> with your CV!
 More details are available on <a href="https://daoyuan14.github.io/" target="_blank">Prof. Wu's homepage</a>.
-<br>
+<br><br>
 Self-financed PhD/MPhil positions are used <strong>only</strong> in cases where applicants do not meet the scholarship requirements set by the university committee but are still academically qualified to pursue PhD/MPhil studies. In such cases, I will support you as a part-time RA, which can fully cover your tuition fees, with an additional allowance of 36K HKD per year.
 </div>
