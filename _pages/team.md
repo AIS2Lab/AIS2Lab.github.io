@@ -70,7 +70,7 @@ profiles:
     more_info: >
       <p>DAIS PhD Student</p>
   - align: left
-    image: pic_placeholder.png
+    image: pic_zhuhe.jpg
     content: about_zhuhe.md
     image_circular: false
     more_info: >
