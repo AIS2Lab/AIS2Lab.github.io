@@ -19,7 +19,7 @@ nav_order: 3
 
 1. Dr. [Xiao Yi](https://scholar.google.com/citations?user=KrNWJyIAAAAJ&hl=en): AIS2Lab's first PhD student, 2019-23 at CUHK; First job: researcher at Huawei HKRC.
 
-2. Dr. [Zicheng Zhang](https://scholar.google.com/citations?user=ILRoggUAAAAJ&hl=en): 2020-25 at SMU, co-advised with Prof. Debin Gao; First job: researcher at Huawei Singapore.
+2. Dr. [Zicheng Zhang](https://scholar.google.com/citations?user=ILRoggUAAAAJ&hl=en): 2020-25 at [SMU](https://computing.smu.edu.sg/newsletter/phd-dissertation-defense-zhang-zicheng-towards-testing-detecting-and-debloating-insecure), co-advised with Prof. Debin Gao; First job: researcher at Huawei Singapore.
 
 3. Dr. [Yuqiang Sun](https://aboutme.izaiahsun.com/): 2023.03-2025.08 at NTU, co-advised with Prof. Yang Liu; First job: postdoc at NTU.
 
@@ -50,3 +50,15 @@ nav_order: 3
 1. Mr. [Xu Yang](https://github.com/yx018): 2021 - 2022 at CUHK; Next: ASTRI. He is the key contributor to CUHK's CDG and VTL projects.
 
 2. Mr. [Yufan Chen](https://github.com/fan-14): 2021 - 2022 at Xidian, co-advised with Prof. Haoyu Ma; Next: SMU.
+
+3. Mr. [Zimo Ji](https://github.com/yan5ui): 2024 - 2025 at HKUST as a visiting student, co-advised with Prof. Shuai Wang; Next: HKUST.
+
+
+
+> Industry Collabrators 
+
+1. Mr. [En He](https://blackhat.com/eu-21/briefings/schedule/speakers.html#en-he-40529): OPPO ZIWU Security Lab.
+
+2. Mr. [Yue Xue](https://scholar.google.com/citations?user=6cdLQQQAAAAJ&hl=en): MetaTrust Labs, OKX, Certik.
+
+3. Ms. [Huinian Yang](https://blackhat.com/eu-22/briefings/schedule/speakers.html#huinian-yang-44658): OPPO Amber Security Lab, China Telecom Security Lab.

@@ -52,7 +52,7 @@ profiles:
     more_info: >
       <p>Remote Intern</p>
   - align: left
-    image: pic_placeholder.png
+    image: pic_yanzhao.jpg
     content: about_yanzhao.md
     image_circular: false
     more_info: >
