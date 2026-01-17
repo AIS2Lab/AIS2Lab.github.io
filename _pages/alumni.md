@@ -19,7 +19,7 @@ nav_order: 3
 
 1. Dr. [Xiao Yi](https://scholar.google.com/citations?user=KrNWJyIAAAAJ&hl=en): AIS2Lab's first PhD student, 2019-23 at CUHK; First job: researcher at Huawei HKRC.
 
-2. Dr. [Zicheng Zhang](https://scholar.google.com/citations?user=ILRoggUAAAAJ&hl=en): 2020-25 at [SMU](https://computing.smu.edu.sg/newsletter/phd-dissertation-defense-zhang-zicheng-towards-testing-detecting-and-debloating-insecure), co-advised with Prof. Debin Gao; First job: researcher at Huawei Singapore.
+2. Dr. [Zicheng Zhang](https://scholar.google.com/citations?user=ILRoggUAAAAJ&hl=en): 2020-25 (with gap years) at [SMU](https://computing.smu.edu.sg/newsletter/phd-dissertation-defense-zhang-zicheng-towards-testing-detecting-and-debloating-insecure), co-advised with Prof. Debin Gao; First job: researcher at Huawei Singapore.
 
 3. Dr. [Yuqiang Sun](https://aboutme.izaiahsun.com/): 2023.03-2025.08 at NTU, co-advised with Prof. Yang Liu; First job: postdoc at NTU.
 
