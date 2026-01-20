@@ -11,7 +11,7 @@ nav_order: 3
 ---
 > Postdoc Researchers
 
-1. Dr. [Han Liu](https://helayliu.github.io/): 2024.09-2025.12 at HKUST, co-hosted with Prof. Shuai Wang, partially supported by the TLIP project with 150K HKD; Next: continue as a postdoctoral researcher at UST.
+1. Dr. [Han Liu](https://helayliu.github.io/): 2024.09-2025.12 at HKUST, co-hosted with Prof. Shuai Wang, partially supported by the TLIP project with 150K HKD; Next: Associate Professor at Nankai University.
 
 
 
@@ -19,7 +19,7 @@ nav_order: 3
 
 1. Dr. [Xiao Yi](https://scholar.google.com/citations?user=KrNWJyIAAAAJ&hl=en): AIS2Lab's first PhD student, 2019-23 at CUHK; First job: researcher at Huawei HKRC.
 
-2. Dr. [Zicheng Zhang](https://scholar.google.com/citations?user=ILRoggUAAAAJ&hl=en): 2020-25 (with gap years) at [SMU](https://computing.smu.edu.sg/newsletter/phd-dissertation-defense-zhang-zicheng-towards-testing-detecting-and-debloating-insecure), co-advised with Prof. Debin Gao; First job: researcher at Huawei Singapore.
+2. Dr. [Zicheng Zhang](https://scholar.google.com/citations?user=ILRoggUAAAAJ&hl=en): 2020-25 (with gap years) at [SMU](https://computing.smu.edu.sg/newsletter/phd-dissertation-defense-zhang-zicheng-towards-testing-detecting-and-debloating-insecure), co-advised with Prof. Debin Gao; First job: researcher at Huawei SG.
 
 3. Dr. [Yuqiang Sun](https://aboutme.izaiahsun.com/): 2023.03-2025.08 at NTU, co-advised with Prof. Yang Liu; First job: postdoc at NTU.
 
@@ -61,7 +61,7 @@ nav_order: 3
 
 2. Mr. [Yue Xue](https://scholar.google.com/citations?user=6cdLQQQAAAAJ&hl=en): MetaTrust Labs, OKX, Certik.
 
-3. Ms. [Huinian Yang](https://blackhat.com/eu-22/briefings/schedule/speakers.html#huinian-yang-44658): OPPO Amber Security Lab, China Telecom Security Lab.
+3. Ms. [Huinian Yang](https://blackhat.com/eu-22/briefings/schedule/speakers.html#huinian-yang-44658): China Telecom Security Lab.
 
 
 
