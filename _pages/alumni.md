@@ -55,7 +55,7 @@ nav_order: 3
 
 
 
-> Industry Collabrators 
+> Industry Collaborators 
 
 1. Mr. [En He](https://blackhat.com/eu-21/briefings/schedule/speakers.html#en-he-40529): OPPO ZIWU Security Lab.
 
@@ -71,4 +71,4 @@ nav_order: 3
 
 2. HKUST: [Xunguang Wang](https://scholar.google.com/citations?user=KNdj9HMAAAAJ&hl=en), [Yiteng Peng](https://scholar.google.com/citations?hl=en&user=A2RsjXQAAAAJ), [Zhenlan Ji](https://scholar.google.com/citations?user=-VQxD1UAAAAJ&hl=en), [Zongjie Li](https://scholar.google.com/citations?user=Sd8mmE0AAAAJ&hl=en), [Kunpeng Zhang](https://scholar.google.com/citations?hl=en&user=hL2k2GcAAAAJ), [Huaijing Wang](https://scholar.google.com/citations?hl=en&user=eO-yR-0AAAAJ), [Wai Kin Wong](https://dblp.org/pid/277/4886.html)
 
-3. NUDT: Jiarui Chen
+3. NUDT: [Jiarui Chen](https://www.researchgate.net/scientific-contributions/Jiarui-Chen-2318868302)
