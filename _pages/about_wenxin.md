@@ -2,4 +2,4 @@
 
 She has published as first author in ICASSP 2025.
 
-Her main research focus is on AI safety and LLM for medical image analysis.
+Her main research focus is on jailbreaking and AI safety, including multimodal models.
