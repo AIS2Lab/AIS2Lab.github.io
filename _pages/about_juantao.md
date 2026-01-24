@@ -3,4 +3,4 @@
 He has published as first author in ASE 2025 and has assisted the PI with multiple grant proposals. 
 He is a key contributor to the HKUST TLIP project.
 
-His main research focus is on LLMs for cybersecurity, LLM compliance, and blockchain security.
+His research focus is on LLMs for cybersecurity, LLM compliance, and blockchain security.

@@ -3,4 +3,4 @@
 She has published in TOSEM 2024, TOSEM 2025, ASE 2024, EMNLP 2025 Findings, and QRS 2025.
 She is a key contributor to the Stellar project.
 
-Her main research focus is on LLMs for verification and Web3 Fintech security.
+Her research focus is on LLMs for verification and Web3 Fintech security.

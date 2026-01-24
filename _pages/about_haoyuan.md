@@ -2,4 +2,4 @@
 
 He is a key contributor to the CCF-Huawei project.
 
-His main research focus is on (intelligent) program analysis.
+His research focus is on (intelligent) program analysis.
