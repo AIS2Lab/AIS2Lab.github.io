@@ -2,4 +2,4 @@
 
 He has published in Computers & Security 2025.
 
-His main research focus is on MCP security and IoT security.
+His research focus is on MCP security and binary security.

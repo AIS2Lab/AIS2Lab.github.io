@@ -2,4 +2,4 @@
 
 He has published in ISSTA 2023 and EuroS&P 2024.
 
-His main research focus is on LLM agent security.
+His research focus is on LLM agent security.
