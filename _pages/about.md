@@ -47,7 +47,7 @@ To realize this vision, we are always seeking passionate and persistent students
 Currently, we have the following priority openings:
 
 <div style="background-color: #f3f4f6; border-left: 4px solid #6c63ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 8px;">
-We are hiring <strong>one Research Assistant</strong> who aspires to understand <b>GPU software security</b> or <b>medical system security</b>.
+We are hiring <strong>one Research Assistant (RA)</strong> who aspires to understand <b>GPU software security</b> or <b>medical system security</b>.
 Additionally, there is <strong>one funded PhD position</strong>, who expects to work on <b>LLMs for software supply chain security</b> (see our FSE'22, NDSS'23, USENIX'24, ASE'25 papers).
 If you are passionate about AI, security, or interdisciplinary research and interested in these positions, feel free to <a href="mailto:daoyuanwu@ln.edu.hk">Email Us</a> with your CV!
 More details are available on <a href="https://daoyuan14.github.io/" target="_blank">Prof. Wu's homepage</a>.
