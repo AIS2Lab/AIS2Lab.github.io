@@ -52,5 +52,5 @@ Additionally, there is <strong>one funded PhD position</strong> <font color="red
 If you are passionate about AI, security, or interdisciplinary research, feel free to <a href="mailto:daoyuanwu@ln.edu.hk">Email Us</a> with your CV!
 More details are available on <a href="https://daoyuan14.github.io/" target="_blank">Prof. Wu's homepage</a>.
 <br><br>
-<strong>Self-financed</strong> PhD/MPhil positions are always available. They are used <strong>only</strong> in cases where applicants do not meet the scholarship requirements set by the university committee but are still academically qualified to pursue PhD/MPhil studies. In such cases, I will support you as a part-time RA, which will fully cover your tuition fees and provide some living allowance.
+<strong>Self-financed</strong> PhD/MPhil positions are always available. They are used <strong>only</strong> in cases where applicants do not meet the scholarship requirements set by the university committee but are still academically qualified to pursue PhD/MPhil studies. In such cases, I will support you as a part-time RA, which will cover your tuition fees and provide some living allowance.
 </div>
