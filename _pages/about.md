@@ -48,9 +48,9 @@ Currently, we have the following priority openings:
 
 <div style="background-color: #f3f4f6; border-left: 4px solid #6c63ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 8px;">
 We are hiring <strong>one RA or Postdoc</strong> who aspires to understand <b>GPU software security</b> or <b>medical system security</b>.
-Additionally, there is <strong>one funded PhD position</strong> (due: 30 Apr 2026), who expects to work on <b>LLMs for software supply chain security</b> (see our FSE'22, NDSS'23, USENIX'24, ASE'25 papers).
+Additionally, there is <strong>one funded PhD position</strong> <font color="red">(due: 30 Apr 2026)</font>, who expects to work on <b>LLMs for software supply chain security</b> (see our FSE'22, NDSS'23, USENIX'24, ASE'25 papers).
 If you are passionate about AI, security, or interdisciplinary research, feel free to <a href="mailto:daoyuanwu@ln.edu.hk">Email Us</a> with your CV!
 More details are available on <a href="https://daoyuan14.github.io/" target="_blank">Prof. Wu's homepage</a>.
 <br><br>
-<strong>Self-financed</strong> PhD/MPhil positions are always available. They are used <strong>only</strong> in cases where applicants do not meet the scholarship requirements set by the university committee but are still academically qualified to pursue PhD/MPhil studies. In such cases, I will support you as a part-time RA, which can fully cover your tuition fees, with an additional allowance of 36K HKD per year.
+<strong>Self-financed</strong> PhD/MPhil positions are always available. They are used <strong>only</strong> in cases where applicants do not meet the scholarship requirements set by the university committee but are still academically qualified to pursue PhD/MPhil studies. In such cases, I will support you as a part-time RA, which will fully cover your tuition fees and provide some living allowance.
 </div>
