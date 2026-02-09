@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-02-09'
 papers:
   WtO-bN8AAAAJ:0EnyYjriUFMC:
-    citations: 2
+    citations: 0
     title: 'Understanding Android VoIP Security: A System-Level Vulnerability Assessment'
     year: '2020'
   WtO-bN8AAAAJ:2osOgNQ5qMEC:
@@ -14,11 +14,11 @@ papers:
     title: "Deep-learning\u2013based app sensitive behavior surveillance for Android powered cyber\u2013physical systems"
     year: '2020'
   WtO-bN8AAAAJ:3wLP7v6BnpwC:
-    citations: 5
+    citations: 6
     title: Differentiation-Based Extraction of Proprietary Data from Fine-Tuned LLMs
     year: '2025'
   WtO-bN8AAAAJ:4DMP91E08xMC:
-    citations: 29
+    citations: 30
     title: 'BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects'
     year: '2023'
   WtO-bN8AAAAJ:4WewbtJKmRkC:
@@ -26,7 +26,7 @@ papers:
     title: 'BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts'
     year: '2025'
   WtO-bN8AAAAJ:4uoR24qA-WYC:
-    citations: 14
+    citations: 15
     title: 'Using my functions should follow my checks: understanding and detecting insecure OpenZeppelin code in smart contracts'
     year: '2024'
   WtO-bN8AAAAJ:5nxA0vEk-isC:
@@ -34,7 +34,7 @@ papers:
     title: Scalable online vetting of Android apps for measuring declared SDK versions and their consistency with API calls
     year: '2021'
   WtO-bN8AAAAJ:8k81kl-MbHgC:
-    citations: 22
+    citations: 23
     title: 'When program analysis meets bytecode search: Targeted and efficient inter-procedural analysis of modern Android apps in BackDroid'
     year: '2021'
   WtO-bN8AAAAJ:9ZlFYXVOiuMC:
@@ -42,7 +42,7 @@ papers:
     title: 'Lica: A fine-grained and path-sensitive linux capability analysis framework'
     year: '2022'
   WtO-bN8AAAAJ:9w9GTvUEN2YC:
-    citations: 0
+    citations: 1
     title: Rethinking and Exploring String-Based Malware Family Classification in the Era of LLMs and RAG
     year: '2025'
   WtO-bN8AAAAJ:9yKSN-GCB0IC:
@@ -54,23 +54,27 @@ papers:
     title: 'Stshield: Single-token sentinel for real-time jailbreak detection in large language models'
     year: '2025'
   WtO-bN8AAAAJ:DIubQTN3OvUC:
-    citations: 95
+    citations: 107
     title: Combining fine-tuning and llm-based agents for intuitive smart contract auditing with justifications
     year: '2025'
   WtO-bN8AAAAJ:DrR-2ekChdkC:
-    citations: 20
+    citations: 21
     title: On the usability (in) security of in-app browsing interfaces in mobile apps
     year: '2021'
   WtO-bN8AAAAJ:EBV337fEn3EC:
     citations: 4
     title: 'Pre-trained model-based actionable warning identification: A feasibility study'
     year: '2025'
+  WtO-bN8AAAAJ:EmjvLWWcsQIC:
+    citations: 0
+    title: 'Taming Various Privilege Escalation in LLM-Based Agent Systems: A Mandatory Access Control Framework'
+    year: '2026'
   WtO-bN8AAAAJ:IHkkN1K1AlAC:
-    citations: 2
+    citations: 3
     title: Benchmarking Multi-Modal LLMs for Testing Visual Deep Learning Systems Through the Lens of Image Mutation
     year: '2024'
   WtO-bN8AAAAJ:INdAjOZKYREC:
-    citations: 7
+    citations: 6
     title: Ip leakage attacks targeting llm-based multi-agent systems
     year: '2025'
   WtO-bN8AAAAJ:KlAtU1dfN6UC:
@@ -78,19 +82,19 @@ papers:
     title: 'AGChain: A Blockchain-based Gateway for Permanent, Distributed, and Secure App Delegation from Existing Mobile App Markets'
     year: '2021'
   WtO-bN8AAAAJ:LkGwnXOMwfcC:
-    citations: 28
+    citations: 29
     title: 'SCLib: A practical and lightweight defense against component hijacking in Android applications'
     year: '2018'
   WtO-bN8AAAAJ:PD-wXv1Sh1EC:
-    citations: 4
-    title: 'Mcpsecbench: A systematic security benchmark and playground for testing model context protocols'
+    citations: 8
+    title: 'MCPSecBench: A systematic security benchmark and playground for testing Model Context Protocols'
     year: '2025'
   WtO-bN8AAAAJ:QIV2ME_5wuYC:
-    citations: 22
+    citations: 23
     title: 'An empirical study of blockchain system vulnerabilities: Modules, types, and patterns'
     year: '2022'
   WtO-bN8AAAAJ:RZBefGmQYygC:
-    citations: 19
+    citations: 20
     title: Low-Cost and Comprehensive Non-textual Input Fuzzing with LLM-Synthesized Input Generators
     year: '2025'
   WtO-bN8AAAAJ:RgMnzfD6kpIC:
@@ -98,11 +102,11 @@ papers:
     title: Api-guided dataset synthesis to finetune large code models
     year: '2025'
   WtO-bN8AAAAJ:RoXSNcbkSzsC:
-    citations: 137
+    citations: 147
     title: 'Llm4vuln: A unified evaluation framework for decoupling and enhancing llms'' vulnerability reasoning'
     year: '2024'
   WtO-bN8AAAAJ:S_fw-_riRmcC:
-    citations: 7
+    citations: 10
     title: Detecting Various DeFi Price Manipulations with LLM Reasoning
     year: '2025'
   WtO-bN8AAAAJ:Se3iqnhoufwC:
@@ -138,7 +142,7 @@ papers:
     title: Demystifying and puncturing the inflated delay in smartphone-based wifi network measurement
     year: '2016'
   WtO-bN8AAAAJ:ZeXyd9-uunAC:
-    citations: 27
+    citations: 31
     title: "Beyond \u201Cprotected\u201D and \u201Cprivate\u201D: An empirical security analysis of custom function modifiers in smart contracts"
     year: '2023'
   WtO-bN8AAAAJ:ZysSsiWj_g4C:
@@ -146,7 +150,7 @@ papers:
     title: 'MtdScout: Complementing the identification of insecure methods in android apps via source-to-bytecode signature generation and tree-based layered search'
     year: '2024'
   WtO-bN8AAAAJ:_FxGoFyzp5QC:
-    citations: 15
+    citations: 16
     title: Toward accurate network delay measurement on android phones
     year: '2017'
   WtO-bN8AAAAJ:aqlVkmm33-oC:
@@ -156,13 +160,13 @@ papers:
   WtO-bN8AAAAJ:b8m_4JuPjscC:
     citations: 0
     title: "Demystifying OpenZeppelin\u2019s Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts"
-    year: Unknown Year
+    year: '2025'
   WtO-bN8AAAAJ:cF7EPgIk0B4C:
-    citations: 85
+    citations: 96
     title: 'Propertygpt: Llm-driven formal verification of smart contracts through retrieval-augmented property generation'
     year: '2025'
   WtO-bN8AAAAJ:d4tt_xEv1X8C:
-    citations: 49
+    citations: 54
     title: 'ACFix: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts'
     year: '2025'
   WtO-bN8AAAAJ:dj1AAMDQi3QC:
@@ -178,7 +182,7 @@ papers:
     title: Measuring the declared SDK versions and their consistency with API calls in Android apps
     year: '2017'
   WtO-bN8AAAAJ:ec1XJgWlWRUC:
-    citations: 8
+    citations: 13
     title: Advanced smart contract vulnerability detection via llm-powered multi-agent systems
     year: '2025'
   WtO-bN8AAAAJ:f13iAvnbnnYC:
@@ -186,7 +190,7 @@ papers:
     title: How Multi-Modal LLMs Reshape Visual Deep Learning Testing? A Comprehensive Study Through the Lens of Image Mutation
     year: '2024'
   WtO-bN8AAAAJ:fbc8zXXH2BUC:
-    citations: 277
+    citations: 305
     title: 'Gptscan: Detecting logic vulnerabilities in smart contracts by combining gpt with program analysis'
     year: '2024'
   WtO-bN8AAAAJ:g9YHGIZn7mcC:
@@ -210,7 +214,7 @@ papers:
     title: On-the-fly Android static analysis with applications in vulnerability discovery
     year: '2019'
   WtO-bN8AAAAJ:lPDSu1ZU3VAC:
-    citations: 41
+    citations: 44
     title: 'Selfdefend: Llms can defend themselves against jailbreaking in a practical manner'
     year: '2025'
   WtO-bN8AAAAJ:mu2_AnMl8iYC:
@@ -230,11 +234,11 @@ papers:
     title: 'Digging Into the Internal: Causality-Based Analysis of LLM Function Calling'
     year: '2025'
   WtO-bN8AAAAJ:q0uBw5dMOAkC:
-    citations: 14
+    citations: 15
     title: 'Llms can defend themselves against jailbreaking in a practical manner: A vision paper'
     year: '2024'
   WtO-bN8AAAAJ:qOpkhvVCMvUC:
-    citations: 14
+    citations: 17
     title: 'DecLLM: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code'
     year: '2025'
   WtO-bN8AAAAJ:qjMakFHDy7sC:
@@ -246,7 +250,7 @@ papers:
     title: Towards dynamically monitoring android applications on non-rooted devices in the wild
     year: '2018'
   WtO-bN8AAAAJ:tuHXwOkdijsC:
-    citations: 8
+    citations: 9
     title: 'Vrptest: Evaluating visual referring prompting in large multimodal models'
     year: '2023'
   WtO-bN8AAAAJ:u-coK7KVo8oC:
@@ -256,7 +260,7 @@ papers:
   WtO-bN8AAAAJ:u1IMlZnpNFQC:
     citations: 0
     title: 'Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation'
-    year: Unknown Year
+    year: '2025'
   WtO-bN8AAAAJ:u5HHmVD_uO8C:
     citations: 18
     title: A sink-driven approach to detecting exposed component vulnerabilities in android apps
@@ -268,13 +272,13 @@ papers:
   WtO-bN8AAAAJ:v7LLNfYe7h0C:
     citations: 0
     title: Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study
-    year: Unknown Year
+    year: '2025'
   WtO-bN8AAAAJ:wUCFpcnEedwC:
-    citations: 0
+    citations: 1
     title: Taxonomy, Evaluation and Exploitation of IPI-Centric LLM Agent Defense Frameworks
     year: '2025'
   WtO-bN8AAAAJ:yL7DKRohVA8C:
-    citations: 89
+    citations: 94
     title: 'Split and merge: Aligning position biases in LLM-based evaluators'
     year: '2024'
   WtO-bN8AAAAJ:yeKNu01O_4gC:
