@@ -22,6 +22,12 @@ profiles:
     more_info: >
       <p>Incoming Postdoc</p>
   - align: left
+    image: pic_anqi.jpg
+    content: about_anqi.md
+    image_circular: false
+    more_info: >
+      <p>Incoming Postdoc</p>
+  - align: left
     image: pic_placeholder.png
     content: about_juantao.md
     image_circular: false
@@ -52,7 +58,7 @@ profiles:
     more_info: >
       <p>Remote Intern</p>
   - align: left
-    image: pic_placeholder.png
+    image: pic_pengyu.jpg
     content: about_pengyu.md
     image_circular: false
     more_info: >
