@@ -36,13 +36,13 @@ nav_order: 7
 
 7. <strong>Proposal Writer</strong>. Singapore Cybersecurity Industry Call for Innovation (CyberCall), [2024-25](https://metatrust.io/blogs/post/metatrust-wins-cybercall-2023-innovation-award-empowering-blockchain-security-with-ai).
 
-6. <strong>Co-PI</strong>. UGC Special Grant for Strategic Development of Virtual Teaching and Learning (VTL), [2021-23](https://clear.cuhk.edu.hk/web/research-for-scholarship/research-support/virtual-teaching-and-learning-vtl-pedagogical-research-service/).
+6. <strong>Co-PI</strong>. UGC Special Grant for Strategic Development of Virtual Teaching and Learning (VTLR05), [2021-23](https://www.aqs.cuhk.edu.hk/documents/BWU-for-VTL-Roadmap-VTL-Funding.pdf).
 
 5. <strong>PI</strong>. UGC-funded CUHK Courseware Development Grant (CDG), [2019-22](https://www.cuhk.edu.hk/eLearning/c_tnl/cdgs/2019-22(Round%202)/report/010%20Final%20brief%20write%20up.pdf).
 
 4. <strong>PI</strong>. CUHK Direct Grant, 2019-22.
 
-3. <strong>Collaborator</strong>. Singapore National Satellite of Excellence – Mobile Systems Security and Cloud Security (NSOE MSS-CS) grant, [2019-22](https://research.smu.edu.sg/news/making-app-security-priority).
+3. <strong>Collaborator</strong>. Singapore NRF National Satellite of Excellence – Mobile Systems Security and Cloud Security (NSOE MSS-CS) grant, [2019-22](https://research.smu.edu.sg/news/making-app-security-priority).
 
 2. <strong>Co-I</strong>. Huawei Research (Hong Kong)'s HIRP, [2016-17](https://www.huawei.com/en/news/2016/11/hw-innovation-research-program-tangible-value).
 
