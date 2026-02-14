@@ -23,7 +23,7 @@ nav_order: 7
 
 7. <strong>PI</strong>. Lingnan Faculty Research Grant [2025](https://scholars.ln.edu.hk/en/projects/combining-rigorous-static-analysis-and-flexible-llm-analysis-for-/).
 
-8. <strong>PI</strong>. Lingnan Professional Allowance Fund, added with SDS Staff Publication Reward Scheme.
+8. <strong>PI</strong>. Lingnan Professional Allowance Fund per year, added with the Staff Publication Reward Scheme (SPRS) per year.
 
 9. Lingnan PhD Student Fund.
 
@@ -32,15 +32,21 @@ nav_order: 7
 
 > Completed
 
-1. <strong>PI</strong>. UGC-funded HKUST Teaching and Learning Innovation Projects (TLIP) [2024/25](https://cei.hkust.edu.hk/en-hk/projects-and-funding/teaching-and-learning-innovative-projects/funded-projects?field_project_year_target_id%5B%5D=287).
+8. <strong>PI</strong>. UGC-funded HKUST Teaching and Learning Innovation Projects (TLIP) [2024/25](https://cei.hkust.edu.hk/en-hk/projects-and-funding/teaching-and-learning-innovative-projects/funded-projects?field_project_year_target_id%5B%5D=287).
 
-2. <strong>Co-PI</strong>. UGC Special Grant for Strategic Development of Virtual Teaching and Learning (VTL), 2021-23.
+7. <strong>Proposal Writer</strong>. Singapore Cybersecurity Industry Call for Innovation (CyberCall), [2024-25](https://metatrust.io/blogs/post/metatrust-wins-cybercall-2023-innovation-award-empowering-blockchain-security-with-ai).
 
-3. <strong>PI</strong>. UGC-funded CUHK Courseware Development Grant (CDG), [2019-22](https://www.cuhk.edu.hk/eLearning/c_tnl/cdgs/2019-22(Round%202)/report/010%20Final%20brief%20write%20up.pdf).
+6. <strong>Co-PI</strong>. UGC Special Grant for Strategic Development of Virtual Teaching and Learning (VTL), [2021-23](https://clear.cuhk.edu.hk/web/research-for-scholarship/research-support/virtual-teaching-and-learning-vtl-pedagogical-research-service/).
+
+5. <strong>PI</strong>. UGC-funded CUHK Courseware Development Grant (CDG), [2019-22](https://www.cuhk.edu.hk/eLearning/c_tnl/cdgs/2019-22(Round%202)/report/010%20Final%20brief%20write%20up.pdf).
 
 4. <strong>PI</strong>. CUHK Direct Grant, 2019-22.
 
-5. <strong>Co-I</strong>. Huawei Research (Hong Kong)'s HIRP, [2016](https://www.huawei.com/en/news/2016/11/hw-innovation-research-program-tangible-value).
+3. <strong>Collaborator</strong>. Singapore National Satellite of Excellence – Mobile Systems Security and Cloud Security (NSOE MSS-CS) grant, [2019-22](https://research.smu.edu.sg/news/making-app-security-priority).
+
+2. <strong>Co-I</strong>. Huawei Research (Hong Kong)'s HIRP, [2016-17](https://www.huawei.com/en/news/2016/11/hw-innovation-research-program-tangible-value).
+
+1. <strong>Admin Coordinator</strong> & <strong>Lead Student</strong>. ITF Tier-3 Grant ITS/073/12, 2012-14.
 
 
 ---
