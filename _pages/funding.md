@@ -42,7 +42,7 @@ nav_order: 7
 
 4. <strong>PI</strong>. CUHK Direct Grant, 2019-22.
 
-3. <strong>Collaborator</strong>. Singapore NRF National Satellite of Excellence – Mobile Systems Security and Cloud Security (NSOE MSS-CS) grant, [2019-22](https://research.smu.edu.sg/news/making-app-security-priority).
+3. <strong>Collaborator</strong>. Singapore NRF NSoE – Mobile Systems Security and Cloud Security (NSOE MSS-CS) grant, [2019-22](https://research.smu.edu.sg/news/making-app-security-priority).
 
 2. <strong>Co-I</strong>. Huawei Research (Hong Kong)'s HIRP, [2016-17](https://www.huawei.com/en/news/2016/11/hw-innovation-research-program-tangible-value).
 
