@@ -53,5 +53,6 @@ More details are available on <a href="https://daoyuan14.github.io/" target="_bl
 <br><br>
 <strong>Self-financed</strong> PhD/MPhil positions are always available. They are used <strong>only</strong> in cases where applicants do not meet the scholarship requirements set by the university committee but are still academically qualified to pursue PhD/MPhil studies. In such cases, I will support you as a part-time RA, which will cover your tuition fees and provide some living allowance.
 <br><br>
-For <strong>RA applicants</strong>, you are <strong>required to pursue a PhD in our group after completing the RA</strong>. Otherwise, we will not consider your application.
+For full-time <strong>RA applicants</strong>, you are <strong>required to pursue a PhD in our group after completing the RA</strong>. Otherwise, we will not consider your application.
+For <strong>remote interns</strong>, there is no such restriction. We always welcome excellent UG students who want to pursue a PhD at a top university after being trained remotely in our group.
 </div>
