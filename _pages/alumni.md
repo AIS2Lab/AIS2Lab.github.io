@@ -35,6 +35,18 @@ nav_order: 3
 
 
 
+> (Remote) Interns
+
+1. Mr. [Xu Yang](https://github.com/yx018): 2021 - 2022 at CUHK; Next: ASTRI. He is the key contributor to CUHK's CDG and VTL projects.
+
+2. Mr. [Yufan Chen](https://github.com/fan-14): 2021 - 2022 at CUHK as a remote intern, co-advised with Prof. Haoyu Ma; Next: SMU.
+
+3. Mr. [Zimo Ji](https://github.com/yan5ui): 2024 - 2025 at HKUST as a visiting student, co-advised with Prof. Shuai Wang; Next: HKUST.
+
+4. Mr. [Yixuan Yang](https://github.com/AIS2Lab/AIS2Lab.github.io/blob/main/_pages/about_yixuan.md): 2025.06 - 2026.02 at Lingnan as a remote intern; Next: PhD student at Peng Cheng Lab and Sun Yat-sen University.
+
+
+
 > MSc Students
 
 1. 2019 - 2020: Mengjie Chen (DLT'24; Next: CUHK), Lixiang Li (RAID'21; Next: miHoYo), Ming Fang (helped EuroS&P'24; Next: Alibaba), Weiyan Xiong (helped FSE'22; Next: SAP China). 
@@ -42,16 +54,6 @@ nav_order: 3
 2. 2020 - 2021: Yan Wu (EuroS&P'24; Next: Morgan Stanley China), Siqin Li (explored FPS security).
 
 3. 2021 - 2022: Lu Zhang (helped MagicCrypto; Next: OKX Hong Kong).
-
-
-
-> UG Students
-
-1. Mr. [Xu Yang](https://github.com/yx018): 2021 - 2022 at CUHK; Next: ASTRI. He is the key contributor to CUHK's CDG and VTL projects.
-
-2. Mr. [Yufan Chen](https://github.com/fan-14): 2021 - 2022 at Xidian, co-advised with Prof. Haoyu Ma; Next: SMU.
-
-3. Mr. [Zimo Ji](https://github.com/yan5ui): 2024 - 2025 at HKUST as a visiting student, co-advised with Prof. Shuai Wang; Next: HKUST.
 
 
 
