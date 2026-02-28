@@ -43,7 +43,7 @@ nav_order: 3
 
 3. Mr. [Zimo Ji](https://github.com/yan5ui): 2024 - 2025 at HKUST as a visiting student, co-advised with Prof. Shuai Wang; Next: HKUST.
 
-4. Mr. [Yixuan Yang](https://github.com/AIS2Lab/AIS2Lab.github.io/blob/main/_pages/about_yixuan.md): 2025.06 - 2026.02 at Lingnan as a remote intern; Next: PhD student at Peng Cheng Lab and Sun Yat-sen University.
+4. Mr. [Yixuan Yang](https://github.com/AIS2Lab/AIS2Lab.github.io/blob/main/_pages/about_yixuan.md): 2025.06 - 2026.02 at Lingnan as a remote intern; Next: PhD student at [PCL](https://www.pcl.ac.cn/) and Sun Yat-sen University.
 
 
 
