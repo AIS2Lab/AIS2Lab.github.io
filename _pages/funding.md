@@ -21,7 +21,7 @@ nav_order: 7
 
 6. <strong>PI</strong>. Lingnan Direct Grant [2025](https://scholars.ln.edu.hk/en/projects/evolving-llms-for-whole-cycle-smart-contract-vulnerability-analys/).
 
-7. <strong>PI</strong>. Lingnan Faculty Research Grant [2025](https://scholars.ln.edu.hk/en/projects/combining-rigorous-static-analysis-and-flexible-llm-analysis-for-/).
+7. <strong>PI</strong>. Lingnan Faculty Research Grant [2025](https://scholars.ln.edu.hk/en/projects/combining-rigorous-static-analysis-and-flexible-llm-analysis-for-/). [two per year]
 
 8. <strong>PI</strong>. Lingnan Professional Allowance Fund per year, added with the Staff Publication Reward Scheme (SPRS) per year.
 

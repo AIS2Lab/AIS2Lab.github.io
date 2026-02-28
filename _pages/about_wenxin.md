@@ -1,4 +1,4 @@
-[Wenxin Luo](https://github.com/Wenxin-LU0) has been a Research Assistant at AIS2Lab since September 2025. She obtained her MSc degree from City University of Hong Kong in 2025 and her Bachelor's degree from Beijing University of Technology in 2023.
+[Wenxin Luo](https://github.com/Wenxin-LU0) has been a Research Assistant at AIS2Lab since September 2025, co-supervised with Prof. Ning Liu from CityU. She obtained her MSc degree from City University of Hong Kong in 2025 and her Bachelor's degree from Beijing University of Technology in 2023.
 
 She has published as first author in ICASSP 2025.
 
