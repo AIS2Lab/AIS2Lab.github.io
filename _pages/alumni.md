@@ -11,7 +11,7 @@ nav_order: 3
 ---
 > Postdoc Researchers
 
-1. Dr. [Han Liu](https://helayliu.github.io/): 2024.09-2026.02 at HKUST, co-hosted with Prof. Shuai Wang, partially supported by the TLIP project; Next: Associate Professor at Nankai University.
+1. Dr. [Han Liu](https://helayliu.github.io/): 2024.09-2026.02 at HKUST, partially supported by the TLIP project and co-hosted with Prof. Shuai Wang; Next: Associate Professor at Nankai University.
 
 
 
