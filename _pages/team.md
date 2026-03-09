@@ -28,6 +28,12 @@ profiles:
     more_info: >
       <p>Incoming Postdoc</p>
   - align: left
+    image: pic_jiahuai.jpg
+    content: about_jiahuai.md
+    image_circular: false
+    more_info: >
+      <p>Remote Visiting Postdoc</p>
+  - align: left
     image: pic_placeholder.png
     content: about_juantao.md
     image_circular: false
