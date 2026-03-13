@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-03-13'
 papers:
   WtO-bN8AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Differentiation-Based Extraction of Proprietary Data from Fine-Tuned LLMs
     year: '2025'
   WtO-bN8AAAAJ:4DMP91E08xMC:
-    citations: 31
+    citations: 32
     title: 'BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects'
     year: '2023'
   WtO-bN8AAAAJ:4WewbtJKmRkC:
@@ -54,7 +54,7 @@ papers:
     title: 'Stshield: Single-token sentinel for real-time jailbreak detection in large language models'
     year: '2025'
   WtO-bN8AAAAJ:DIubQTN3OvUC:
-    citations: 114
+    citations: 115
     title: Combining fine-tuning and llm-based agents for intuitive smart contract auditing with justifications
     year: '2025'
   WtO-bN8AAAAJ:DrR-2ekChdkC:
@@ -86,7 +86,7 @@ papers:
     title: 'SCLib: A practical and lightweight defense against component hijacking in Android applications'
     year: '2018'
   WtO-bN8AAAAJ:PD-wXv1Sh1EC:
-    citations: 9
+    citations: 10
     title: 'MCPSecBench: A systematic security benchmark and playground for testing Model Context Protocols'
     year: '2025'
   WtO-bN8AAAAJ:QIV2ME_5wuYC:
@@ -94,7 +94,7 @@ papers:
     title: 'An empirical study of blockchain system vulnerabilities: Modules, types, and patterns'
     year: '2022'
   WtO-bN8AAAAJ:RZBefGmQYygC:
-    citations: 22
+    citations: 23
     title: Low-Cost and Comprehensive Non-textual Input Fuzzing with LLM-Synthesized Input Generators
     year: '2025'
   WtO-bN8AAAAJ:RgMnzfD6kpIC:
@@ -194,7 +194,7 @@ papers:
     title: How Multi-Modal LLMs Reshape Visual Deep Learning Testing? A Comprehensive Study Through the Lens of Image Mutation
     year: '2024'
   WtO-bN8AAAAJ:fbc8zXXH2BUC:
-    citations: 324
+    citations: 326
     title: 'Gptscan: Detecting logic vulnerabilities in smart contracts by combining gpt with program analysis'
     year: '2024'
   WtO-bN8AAAAJ:g9YHGIZn7mcC:
@@ -230,7 +230,7 @@ papers:
     title: Divergence-Aware Testing of Graphics Shader Compiler Back-Ends
     year: '2025'
   WtO-bN8AAAAJ:oYVvnHz_XzQC:
-    citations: 1
+    citations: 2
     title: 'Extraction and Mutation at a High Level: Template-Based Fuzzing for JavaScript Engines'
     year: '2025'
   WtO-bN8AAAAJ:ocbgtyEEUOwC:
