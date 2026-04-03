@@ -25,7 +25,7 @@ nav_order: 7
 
 8. <strong>PI</strong>. Lingnan Professional Allowance Fund per year, added with the Staff Publication Reward Scheme (SPRS) per year.
 
-9. Lingnan PhD Student Fund.
+9. Lingnan PhD Student Fund, used for Mr. CHEN Yufan.
 
 10. Lingnan Presidential Postdoc Quota.
 
