@@ -22,18 +22,6 @@ profiles:
     more_info: >
       <p>Incoming Postdoc</p>
   - align: left
-    image: pic_anqi.jpg
-    content: about_anqi.md
-    image_circular: false
-    more_info: >
-      <p>Incoming Postdoc</p>
-  - align: left
-    image: pic_jiahuai.jpg
-    content: about_jiahuai.md
-    image_circular: false
-    more_info: >
-      <p>Remote Visiting Postdoc</p>
-  - align: left
     image: pic_placeholder.png
     content: about_juantao.md
     image_circular: false
@@ -52,27 +40,21 @@ profiles:
     more_info: >
       <p>Research Assistant</p>
   - align: left
+    image: pic_ruoxuan.jpg
+    content: about_ruoxuan.md
+    image_circular: false
+    more_info: >
+      <p>Incoming PhD Student</p>
+  - align: left
     image: pic_haoyuan.jpeg
     content: about_haoyuan.md
     image_circular: false
     more_info: >
       <p>Remote Intern</p>
   - align: left
-    image: pic_pengyu.jpg
-    content: about_pengyu.md
+    image: pic_jiahuai.jpg
+    content: about_jiahuai.md
     image_circular: false
     more_info: >
-      <p>DAIS PhD Student</p>
-  - align: left
-    image: pic_jialu.jpg
-    content: about_jialu.md
-    image_circular: false
-    more_info: >
-      <p>DAIS PhD Student</p>
-  - align: left
-    image: pic_zhuhe.jpg
-    content: about_zhuhe.md
-    image_circular: false
-    more_info: >
-      <p>DAIS PhD Student</p>
+      <p>Remote Visiting Postdoc</p>
 ---
