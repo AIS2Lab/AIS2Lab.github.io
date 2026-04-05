@@ -40,21 +40,21 @@ profiles:
     more_info: >
       <p>Research Assistant</p>
   - align: left
+    image: pic_jiahuai.jpg
+    content: about_jiahuai.md
+    image_circular: false
+    more_info: >
+      <p>Remote Visiting Postdoc</p>
+  - align: left
     image: pic_ruoxuan.jpg
     content: about_ruoxuan.md
     image_circular: false
     more_info: >
-      <p>Incoming PhD Student</p>
+      <p>Remote Intern</p>
   - align: left
     image: pic_haoyuan.jpeg
     content: about_haoyuan.md
     image_circular: false
     more_info: >
       <p>Remote Intern</p>
-  - align: left
-    image: pic_jiahuai.jpg
-    content: about_jiahuai.md
-    image_circular: false
-    more_info: >
-      <p>Remote Visiting Postdoc</p>
 ---
