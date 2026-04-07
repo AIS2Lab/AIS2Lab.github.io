@@ -41,7 +41,7 @@ nav_order: 3
 
 2. Mr. [Yufan Chen](https://github.com/fan-14): 2021 - 2022 at CUHK as a remote intern, co-advised with Prof. Haoyu Ma; Next: RE at SMU.
 
-3. Mr. [Zimo Ji](https://github.com/yan5ui): 2024 - 2025 at HKUST as a visiting student, co-advised with Prof. Shuai Wang; Next: PhD at HKUST.
+3. Mr. [Zimo Ji](https://github.com/yan5ui): 2024 - 2025 at HKUST as a visiting student, co-advised with Prof. Shuai Wang; Next: PhD student at HKUST.
 
 4. Mr. [Yixuan Yang](https://github.com/AIS2Lab/AIS2Lab.github.io/blob/main/_pages/about_yixuan.md): 2025.06 - 2026.02 at Lingnan as a remote intern; Next: RA at Lingnan.
 
