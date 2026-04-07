@@ -39,11 +39,11 @@ nav_order: 3
 
 1. Mr. [Xu Yang](https://github.com/yx018): 2021 - 2022 at CUHK; Next: ASTRI. He is the key contributor to CUHK's CDG and VTL projects.
 
-2. Mr. [Yufan Chen](https://github.com/fan-14): 2021 - 2022 at CUHK as a remote intern, co-advised with Prof. Haoyu Ma; Next: SMU.
+2. Mr. [Yufan Chen](https://github.com/fan-14): 2021 - 2022 at CUHK as a remote intern, co-advised with Prof. Haoyu Ma; Next: RE at SMU.
 
-3. Mr. [Zimo Ji](https://github.com/yan5ui): 2024 - 2025 at HKUST as a visiting student, co-advised with Prof. Shuai Wang; Next: HKUST.
+3. Mr. [Zimo Ji](https://github.com/yan5ui): 2024 - 2025 at HKUST as a visiting student, co-advised with Prof. Shuai Wang; Next: PhD at HKUST.
 
-4. Mr. [Yixuan Yang](https://github.com/AIS2Lab/AIS2Lab.github.io/blob/main/_pages/about_yixuan.md): 2025.06 - 2026.02 at Lingnan as a remote intern; Next: PhD student at [PCL](https://www.pcl.ac.cn/) and Sun Yat-sen University.
+4. Mr. [Yixuan Yang](https://github.com/AIS2Lab/AIS2Lab.github.io/blob/main/_pages/about_yixuan.md): 2025.06 - 2026.02 at Lingnan as a remote intern; Next: RA at Lingnan.
 
 
 

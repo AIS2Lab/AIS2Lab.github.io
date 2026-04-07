@@ -40,6 +40,12 @@ profiles:
     more_info: >
       <p>Research Assistant</p>
   - align: left
+    image: pic_yixuan.jpeg
+    content: about_yixuan.md
+    image_circular: false
+    more_info: >
+      <p>Incoming Research Assistant</p>
+  - align: left
     image: pic_jiahuai.jpg
     content: about_jiahuai.md
     image_circular: false

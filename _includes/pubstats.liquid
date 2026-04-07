@@ -2,7 +2,7 @@
   <strong>Big-four security conf papers: <span id="big-four-count"></span></strong>
   <span id="big-four-detail"></span>
   <br>
-  <strong>Top-tier SE conf papers: <span id="top-se-conf-count"></span></strong>
+  <strong>Top-tier SE/PL conf papers: <span id="top-se-conf-count"></span></strong>
   <span id="top-se-conf-detail"></span>
 </div>
 
@@ -54,8 +54,8 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("big-four-detail").textContent = " (" + detailStr.join(", ") + ")";
   
   // ---- Top SE confs ----
-  var topSeConfAbbrs = ["ICSE", "FSE", "ASE", "ISSTA"];
-  var topSeConfCounts = { "ICSE": 0, "FSE": 0, "ASE": 0, "ISSTA": 0 };
+  var topSeConfAbbrs = ["ICSE", "FSE", "ASE", "ISSTA", "PLDI", "OOPSLA"];
+  var topSeConfCounts = { "ICSE": 0, "FSE": 0, "ASE": 0, "ISSTA": 0, "PLDI": 0, "OOPSLA": 0 };
   var topSeConfList = document.querySelectorAll("#top-se-conf-list li");
   document.getElementById("top-se-conf-count").textContent = topSeConfList.length;
 
