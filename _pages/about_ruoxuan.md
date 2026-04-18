@@ -2,4 +2,4 @@
 
 She has published as a first author in a CHI workshop.
 
-Her research focuses on multimodal LLM safety.
+Her research focuses on multimodal LLM safety and agent world model.
