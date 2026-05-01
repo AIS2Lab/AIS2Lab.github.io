@@ -2,4 +2,4 @@
 
 She has published as a first author in a CHI workshop.
 
-Her research focuses on Agent World Models for Cybersecurity.
+Her research focuses on agent world model and coding agent security.
