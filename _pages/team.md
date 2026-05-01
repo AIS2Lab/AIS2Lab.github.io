@@ -22,14 +22,20 @@ profiles:
     more_info: >
       <p>Incoming Postdoc</p>
   - align: left
-    image: pic_placeholder.png
-    content: about_juantao.md
-    image_circular: false
-    more_info: >
-      <p>Research Assistant</p>
-  - align: left
     image: pic_yufan.png
     content: about_yufan.md
+    image_circular: false
+    more_info: >
+      <p>Incoming PhD Student</p>
+  - align: left
+    image: pic_ruoxuan.jpg
+    content: about_ruoxuan.md
+    image_circular: false
+    more_info: >
+      <p>Incoming PhD Student</p>
+  - align: left
+    image: pic_placeholder.png
+    content: about_juantao.md
     image_circular: false
     more_info: >
       <p>Research Assistant</p>
@@ -40,20 +46,14 @@ profiles:
     more_info: >
       <p>Research Assistant</p>
   - align: left
-    image: pic_yixuan.jpeg
-    content: about_yixuan.md
-    image_circular: false
-    more_info: >
-      <p>Incoming Research Assistant</p>
-  - align: left
     image: pic_jiahuai.jpg
     content: about_jiahuai.md
     image_circular: false
     more_info: >
       <p>Remote Visiting Postdoc</p>
   - align: left
-    image: pic_ruoxuan.jpg
-    content: about_ruoxuan.md
+    image: pic_yixuan.jpeg
+    content: about_yixuan.md
     image_circular: false
     more_info: >
       <p>Remote Intern</p>
