@@ -2,4 +2,4 @@
 
 He has published in Computers & Security 2025 and finished an [MCP paper](https://arxiv.org/abs/2508.13220) conducted at AIS2Lab.
 
-His research focus is on MCP security and coding agent security.
+His research focus is on MCP security and LLM for fuzzing.
