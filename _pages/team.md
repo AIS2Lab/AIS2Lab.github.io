@@ -46,11 +46,11 @@ profiles:
     more_info: >
       <p>Research Assistant</p>
   - align: left
-    image: pic_jiahuai.jpg
-    content: about_jiahuai.md
+    image: pic_pengyu.jpg
+    content: about_pengyu.md
     image_circular: false
     more_info: >
-      <p>Remote Visiting Postdoc</p>
+      <p>Research Intern</p>
   - align: left
     image: pic_yixuan.jpeg
     content: about_yixuan.md
@@ -58,7 +58,7 @@ profiles:
     more_info: >
       <p>Remote Intern</p>
   - align: left
-    image: pic_haoyuan.jpeg
+    image: pic_haoyuan.png
     content: about_haoyuan.md
     image_circular: false
     more_info: >
