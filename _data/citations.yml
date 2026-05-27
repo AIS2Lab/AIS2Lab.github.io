@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-05-27'
 papers:
   WtO-bN8AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -50,7 +50,7 @@ papers:
     title: On the accuracy of smartphone-based mobile network measurement
     year: '2015'
   WtO-bN8AAAAJ:Cy13deThEpcC:
-    citations: 10
+    citations: 11
     title: 'Stshield: Single-token sentinel for real-time jailbreak detection in large language models'
     year: '2025'
   WtO-bN8AAAAJ:DIubQTN3OvUC:
@@ -94,7 +94,7 @@ papers:
     title: 'An empirical study of blockchain system vulnerabilities: Modules, types, and patterns'
     year: '2022'
   WtO-bN8AAAAJ:RZBefGmQYygC:
-    citations: 32
+    citations: 33
     title: Low-Cost and Comprehensive Non-textual Input Fuzzing with LLM-Synthesized Input Generators
     year: '2025'
   WtO-bN8AAAAJ:RgMnzfD6kpIC:
@@ -230,7 +230,7 @@ papers:
     title: On-the-fly Android static analysis with applications in vulnerability discovery
     year: '2019'
   WtO-bN8AAAAJ:lPDSu1ZU3VAC:
-    citations: 77
+    citations: 78
     title: 'Selfdefend: Llms can defend themselves against jailbreaking in a practical manner'
     year: '2025'
   WtO-bN8AAAAJ:mu2_AnMl8iYC:
