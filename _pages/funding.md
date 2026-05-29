@@ -34,9 +34,9 @@ nav_order: 7
 
 > Open Fund
 
-2. <strong>PI</strong>. SKLICT ICT2026B32. Hosted by my collabator, Prof. [Jingyi Wang](https://wang-jingyi.github.io/), at ZJU. 
+2. <strong>PI</strong>. SKLICT ICT2026B32. Hosted by my collaborator, Prof. [Jingyi Wang](https://wang-jingyi.github.io/), at ZJU. 
 
-1. <strong>PI</strong>. SKLBDS A2525. Hosted by my collabrator, Prof. [Zhiyuan Wan](https://zhiyuan-wan.github.io/), at ZJU.
+1. <strong>PI</strong>. SKLBDS A2525. Hosted by my collaborator, Prof. [Zhiyuan Wan](https://zhiyuan-wan.github.io/), at ZJU.
 
 
 > Completed
@@ -67,6 +67,8 @@ NDSS Distinguished Paper Award, 2025.
 
 The Best Teaching Award of the MScIE Programme, CUHK, 2021.
 
+ICML Silver Reviewer Award, 2026.
+
 Hall of Fame in Google, Facebook, Yahoo, Yandex, Mail.Ru, Baidu, Tencent, Alibaba, etc., 2014 - 2021.
 
 NDSS (Network and Distributed System Security Symposium) Student Travel Grant, 2019.
@@ -74,7 +76,6 @@ NDSS (Network and Distributed System Security Symposium) Student Travel Grant, 2
 Secure Mobile Center PhD Scholarship (the sole awardee), Singapore Management University, 2015.
 
 The official acknowledgement letter from the Hong Kong Jockey Club for a serious RCE bug, 2014.
-
 
 
 ---
