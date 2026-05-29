@@ -9,25 +9,34 @@ nav_order: 7
 
 > Ongoing
 
-1. <strong>Co-PI</strong>. RGC Collaborative Research Fund (CRF) [2025/26](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/25-26.html).
+11. <strong>Co-PI</strong>. RGC Collaborative Research Fund (CRF) [2025/26](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/25-26.html).
 
-2. <strong>Co-I</strong>. RGC General Research Fund (GRF) [2025/26](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11603825&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=11603825).
+10. <strong>Co-I</strong>. RGC General Research Fund (GRF) [2025/26](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11603825&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=11603825).
 
-3. <strong>PI</strong>. Stellar SDF Academic Research Award [2025 Q3](https://research.stellar.org/research-grants/grantees) [Initially awarded in the 2025 Q1 round, withdrawn due to leaving HKUST, then re-applied and re-awarded in 2025 Q3].
+9. <strong>PI</strong>. Stellar SDF Academic Research Award [2025 Q3](https://research.stellar.org/research-grants/grantees) [Initially awarded in the 2025 Q1 round, withdrawn due to leaving HKUST, then re-applied and re-awarded in 2025 Q3].
 
-4. <strong>PI</strong>. CCF-Huawei Populus Grove Fund for Systems [2025](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2025-06-06/844102.shtml).
+8. <strong>PI</strong>. CCF-Huawei Populus Grove Fund [2025](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2025-06-06/844102.shtml).
 
-5. <strong>PI</strong>. Lingnan Start-up Grant [2025](https://scholars.ln.edu.hk/en/projects/understanding-and-testing-the-security-of-large-language-model-co/).
+7. <strong>PI</strong>. Lingnan Innovation and Impact Fund [2026](https://scholars.ln.edu.hk/en/projects/a-unified-platform-for-benchmarking-the-security-of-ai-agents-acr/).
 
-6. <strong>PI</strong>. Lingnan Direct Grant [2025](https://scholars.ln.edu.hk/en/projects/evolving-llms-for-whole-cycle-smart-contract-vulnerability-analys/).
+6. <strong>PI</strong>. Lingnan Start-up Grant [2025](https://scholars.ln.edu.hk/en/projects/understanding-and-testing-the-security-of-large-language-model-co/).
 
-7. <strong>PI</strong>. Lingnan Faculty Research Grant [2025](https://scholars.ln.edu.hk/en/projects/combining-rigorous-static-analysis-and-flexible-llm-analysis-for-/). [two per year]
+5. <strong>PI</strong>. Lingnan Direct Grant [2025](https://scholars.ln.edu.hk/en/projects/evolving-llms-for-whole-cycle-smart-contract-vulnerability-analys/).
 
-8. <strong>PI</strong>. Lingnan Professional Allowance Fund per year, added with the Staff Publication Reward Scheme (SPRS) per year.
+4. <strong>PI</strong>. Lingnan Faculty Research Grant [2025](https://scholars.ln.edu.hk/en/projects/combining-rigorous-static-analysis-and-flexible-llm-analysis-for-/). [two per year]
 
-9. Lingnan PhD Student Fund, used for Mr. CHEN Yufan.
+3. <strong>PI</strong>. Lingnan Professional Allowance Fund per year, added with the Staff Publication Reward Scheme (SPRS) per year.
 
-10. Lingnan Presidential Postdoc Quota.
+2. Lingnan PhD Student Fund, used for Mr. CHEN Yufan.
+
+1. Lingnan Presidential Postdoc Quota.
+
+
+> Open Fund
+
+2. <strong>PI</strong>. SKLICT ICT2026B32. Hosted by my collabator, Prof. [Jingyi Wang](https://wang-jingyi.github.io/), at ZJU. 
+
+1. <strong>PI</strong>. SKLBDS A2525. Hosted by my collabrator, Prof. [Zhiyuan Wan](https://zhiyuan-wan.github.io/), at ZJU.
 
 
 > Completed
