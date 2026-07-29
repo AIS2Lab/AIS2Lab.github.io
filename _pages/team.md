@@ -20,7 +20,7 @@ profiles:
     content: about_cuifeng.md
     image_circular: false
     more_info: >
-      <p>Postdocal Researcher</p>
+      <p>Postdoc Researcher</p>
   - align: left
     image: pic_yufan.png
     content: about_yufan.md
