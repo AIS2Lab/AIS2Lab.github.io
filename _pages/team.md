@@ -20,7 +20,7 @@ profiles:
     content: about_cuifeng.md
     image_circular: false
     more_info: >
-      <p>Postdoc</p>
+      <p>Postdocal Researcher</p>
   - align: left
     image: pic_yufan.png
     content: about_yufan.md
@@ -34,23 +34,11 @@ profiles:
     more_info: >
       <p>Incoming PhD Student</p>
   - align: left
-    image: pic_placeholder.png
-    content: about_juantao.md
-    image_circular: false
-    more_info: >
-      <p>Research Assistant</p>
-  - align: left
     image: pic_wenxin.jpeg
     content: about_wenxin.md
     image_circular: false
     more_info: >
       <p>Research Assistant</p>
-  - align: left
-    image: pic_pengyu.jpg
-    content: about_pengyu.md
-    image_circular: false
-    more_info: >
-      <p>Research Intern</p>
   - align: left
     image: pic_yixuan.jpeg
     content: about_yixuan.md

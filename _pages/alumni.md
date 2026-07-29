@@ -33,6 +33,8 @@ nav_order: 3
 
 2. Mr. [Yuzhou Fang](https://yuzhou-fang.github.io/): 2021-22 at CUHK; Next: RA at HKUST and PhD student at USC.
 
+3. Mr. [Juantao Zhong](https://github.com/AIS2Lab/AIS2Lab.github.io/blob/main/_pages/about_juantao.md): 2024.09 - 2026.07 at HKUST and Lingnan; Next: PhD student at PolyU.
+
 
 
 > (Remote) Interns
