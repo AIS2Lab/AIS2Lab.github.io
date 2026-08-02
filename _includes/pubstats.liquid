@@ -1,78 +1,179 @@
 <div style="background-color: #f3f4f6; border-left: 4px solid #6c63ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 8px;">
-  <strong>Big-four security conf papers: <span id="big-four-count"></span></strong>
+  <strong>Distinguished Paper Award: 1</strong> (NDSS 2025)
+  <br>
+  <strong>Big-four Security conf papers: <span id="big-four-count"></span></strong>
   <span id="big-four-detail"></span>
   <br>
   <strong>Top-tier SE/PL conf papers: <span id="top-se-conf-count"></span></strong>
   <span id="top-se-conf-detail"></span>
+  <br>
+  <strong>Top-tier AI/Sys conf papers: <span id="top-aisys-conf-count"></span></strong>
+  <span id="top-aisys-conf-detail"></span>
 </div>
 
 <!-- hidden list for Big-four security confs -->
 <ul id="big-four-list" style="display: none;">
   {% bibliography --group_by none --query @*[big_four=true]* %}
 </ul>
-<!-- hidden list for top SE confs -->
+
+<!-- hidden list for top SE/PL confs -->
 <ul id="top-se-conf-list" style="display: none;">
   {% bibliography --group_by none --query @*[top_se_conf=true]* %}
 </ul>
 
+<!-- hidden list for top AI/Sys confs -->
+<ul id="top-aisys-conf-list" style="display: none;">
+  {% bibliography --group_by none --query @*[top_aisys_conf=true]* %}
+</ul>
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  // ---- Big-four ----
-  var bigFourConfAbbrs = ["S&P", "USENIX Security", "CCS", "NDSS"];
+
+  function normalizeAbbr(text) {
+    return text.trim().replace(/[\*\s]/g, "");
+  }
+
+  function getAbbrNode(li) {
+    return li.querySelector(".abbr .badge, .abbr div, .abbr abbr");
+  }
+
+  // ---- Big-four security conferences ----
   var abbrMap = {
-    "S&P": ["S&P", "S\\&P", "S&amp;P"],  // 兼容各种bibtex转义
+    "S&P": ["S&P", "S\\&P", "S&amp;P"],
     "USENIX Security": ["USENIX Security", "USENIX"],
     "CCS": ["CCS"],
     "NDSS": ["NDSS"]
   };
 
-  var bigFourCounts = { "S&P": 0, "USENIX Security": 0, "CCS": 0, "NDSS": 0 };
+  var bigFourCounts = {
+    "S&P": 0,
+    "USENIX Security": 0,
+    "CCS": 0,
+    "NDSS": 0
+  };
 
   var bigFourList = document.querySelectorAll("#big-four-list li");
   document.getElementById("big-four-count").textContent = bigFourList.length;
 
   bigFourList.forEach(function(li) {
-    // 直接取 badge 内容
-    var abbrNode = li.querySelector(".abbr .badge, .abbr div, .abbr abbr");
+    var abbrNode = getAbbrNode(li);
     if (!abbrNode) return;
-    var abbrText = abbrNode.textContent.trim().replace(/[\*\s]/g, "");
-    // 归一化判断
-    for (var key in abbrMap) {
-      abbrMap[key].forEach(function(variant) {
-        if (abbrText === variant.replace(/[\*\s]/g, "")) {
-          bigFourCounts[key]++;
-        }
+
+    var abbrText = normalizeAbbr(abbrNode.textContent);
+
+    Object.keys(abbrMap).forEach(function(key) {
+      var matched = abbrMap[key].some(function(variant) {
+        return abbrText === normalizeAbbr(variant);
       });
-    }
+
+      if (matched) {
+        bigFourCounts[key]++;
+      }
+    });
   });
 
   var detailStr = [];
-  for (var key in bigFourCounts) {
-    if (bigFourCounts[key] > 0) detailStr.push(key + " × " + bigFourCounts[key]);
+
+  Object.keys(bigFourCounts).forEach(function(key) {
+    if (bigFourCounts[key] > 0) {
+      detailStr.push(key + " × " + bigFourCounts[key]);
+    }
+  });
+
+  if (detailStr.length > 0) {
+    document.getElementById("big-four-detail").textContent =
+      " (" + detailStr.join(", ") + ")";
   }
-  if(detailStr.length > 0)
-    document.getElementById("big-four-detail").textContent = " (" + detailStr.join(", ") + ")";
-  
-  // ---- Top SE confs ----
+
+  // ---- Top SE/PL conferences ----
   var topSeConfAbbrs = ["ICSE", "FSE", "ASE", "ISSTA", "PLDI", "OOPSLA"];
-  var topSeConfCounts = { "ICSE": 0, "FSE": 0, "ASE": 0, "ISSTA": 0, "PLDI": 0, "OOPSLA": 0 };
+
+  var topSeConfCounts = {
+    "ICSE": 0,
+    "FSE": 0,
+    "ASE": 0,
+    "ISSTA": 0,
+    "PLDI": 0,
+    "OOPSLA": 0
+  };
+
   var topSeConfList = document.querySelectorAll("#top-se-conf-list li");
-  document.getElementById("top-se-conf-count").textContent = topSeConfList.length;
+  document.getElementById("top-se-conf-count").textContent =
+    topSeConfList.length;
 
   topSeConfList.forEach(function(li) {
-    var abbrNode = li.querySelector(".abbr .badge, .abbr div, .abbr abbr");
+    var abbrNode = getAbbrNode(li);
     if (!abbrNode) return;
-    var abbrText = abbrNode.textContent.trim().replace(/[\*\s]/g, "");
+
+    var abbrText = normalizeAbbr(abbrNode.textContent);
+
     topSeConfAbbrs.forEach(function(conf) {
-      if (abbrText === conf) topSeConfCounts[conf]++;
+      if (abbrText === normalizeAbbr(conf)) {
+        topSeConfCounts[conf]++;
+      }
     });
   });
 
   var seDetailStr = [];
-  for (var key in topSeConfCounts) {
-    if (topSeConfCounts[key] > 0) seDetailStr.push(key + " × " + topSeConfCounts[key]);
+
+  Object.keys(topSeConfCounts).forEach(function(key) {
+    if (topSeConfCounts[key] > 0) {
+      seDetailStr.push(key + " × " + topSeConfCounts[key]);
+    }
+  });
+
+  if (seDetailStr.length > 0) {
+    document.getElementById("top-se-conf-detail").textContent =
+      " (" + seDetailStr.join(", ") + ")";
   }
-  if(seDetailStr.length > 0)
-    document.getElementById("top-se-conf-detail").textContent = " (" + seDetailStr.join(", ") + ")";
+
+  // ---- Top AI/Sys conferences ----
+  var topAISysConfAbbrs = [
+    "ICLR",
+    "ICML",
+    "NeurIPS",
+    "EuroSys",
+    "USENIX ATC"
+  ];
+
+  var topAISysConfCounts = {
+    "ICLR": 0,
+    "ICML": 0,
+    "NeurIPS": 0,
+    "EuroSys": 0,
+    "USENIX ATC": 0
+  };
+
+  var topAISysConfList =
+    document.querySelectorAll("#top-aisys-conf-list li");
+
+  document.getElementById("top-aisys-conf-count").textContent =
+    topAISysConfList.length;
+
+  topAISysConfList.forEach(function(li) {
+    var abbrNode = getAbbrNode(li);
+    if (!abbrNode) return;
+
+    var abbrText = normalizeAbbr(abbrNode.textContent);
+
+    topAISysConfAbbrs.forEach(function(conf) {
+      if (abbrText === normalizeAbbr(conf)) {
+        topAISysConfCounts[conf]++;
+      }
+    });
+  });
+
+  var aisysDetailStr = [];
+
+  Object.keys(topAISysConfCounts).forEach(function(key) {
+    if (topAISysConfCounts[key] > 0) {
+      aisysDetailStr.push(key + " × " + topAISysConfCounts[key]);
+    }
+  });
+
+  if (aisysDetailStr.length > 0) {
+    document.getElementById("top-aisys-conf-detail").textContent =
+      " (" + aisysDetailStr.join(", ") + ")";
+  }
 });
 </script>
