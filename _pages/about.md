@@ -47,9 +47,10 @@ To realize this vision, we are always seeking passionate and persistent students
 Currently, we have the following priority openings:
 
 <div style="background-color: #f3f4f6; border-left: 4px solid #6c63ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 8px;">
-There is <strong>another funded PhD position</strong> <font color="red">(due: 31 Aug 2026)</font>, who expects to work on <b>LLMs for software supply chain security</b> (see our FSE'22, NDSS'23, USENIX'24, ASE'25, OOPSLA'26 papers).
-If you are passionate about AI and security, feel free to <a href="mailto:daoyuanwu@ln.edu.hk">Email Us</a> with your CV and Transcript!
+We are looking for multiple candidates for <strong>Regular PhD Admission</strong> <font color="red">(due: mid-Jan 2027)</font> and <strong>HKPFS</strong> <font color="red">(due: 1 Dec 2026)</font>, who expect to work on meaningful topics on AI and security, feel free to <a href="mailto:daoyuanwu@ln.edu.hk">Email Us</a> with your CV and Transcript!
 More details are available on <a href="https://daoyuan14.github.io/" target="_blank">Prof. Wu's homepage</a>.
+<br><br>
+We also look for one more <strong>Postdoc Researcher</strong>, who should demonstrate independent research capability. I am open to the topics; we can discuss.
 <br><br>
 For full-time <strong>RA applicants</strong>, you are <strong>required to pursue a PhD in our group after completing the RA</strong>. Otherwise, we will not consider your application.
 For <strong>remote interns</strong>, there is no such restriction. We always welcome excellent UG students.

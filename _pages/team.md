@@ -26,25 +26,19 @@ profiles:
     content: about_yufan.md
     image_circular: false
     more_info: >
-      <p>Incoming PhD Student</p>
+      <p>PhD Student</p>
   - align: left
     image: pic_ruoxuan.jpg
     content: about_ruoxuan.md
     image_circular: false
     more_info: >
-      <p>Incoming PhD Student</p>
+      <p>PhD Student</p>
   - align: left
     image: pic_wenxin.jpeg
     content: about_wenxin.md
     image_circular: false
     more_info: >
       <p>Research Assistant</p>
-  - align: left
-    image: pic_yixuan.jpeg
-    content: about_yixuan.md
-    image_circular: false
-    more_info: >
-      <p>Remote Intern</p>
   - align: left
     image: pic_haoyuan.png
     content: about_haoyuan.md
