@@ -9,11 +9,13 @@ nav_order: 7
 
 > Ongoing
 
+12. <strong>PI</strong>. RGC Research Matching Grant Scheme (RMGS) 2026.
+
 11. <strong>Co-PI</strong>. RGC Collaborative Research Fund (CRF) [2025/26](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/25-26.html).
 
 10. <strong>Co-I</strong>. RGC General Research Fund (GRF) [2025/26](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11603825&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=11603825).
 
-9. <strong>PI</strong>. Stellar SDF Academic Research Award [2025 Q3](https://research.stellar.org/research-grants/grantees) [Initially awarded in the 2025 Q1 round, withdrawn due to leaving HKUST, then re-applied and re-awarded in 2025 Q3].
+9. <strong>PI</strong>. SDF Academic Research Award [2025 Q3](https://research.stellar.org/research-grants/grantees) [Initially awarded in the 2025 Q1 round, withdrawn due to leaving HKUST, then re-applied and re-awarded in 2025 Q3].
 
 8. <strong>PI</strong>. CCF-Huawei Populus Grove Fund [2025](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2025-06-06/844102.shtml).
 
@@ -23,7 +25,7 @@ nav_order: 7
 
 5. <strong>PI</strong>. Lingnan Direct Grant [2025](https://scholars.ln.edu.hk/en/projects/evolving-llms-for-whole-cycle-smart-contract-vulnerability-analys/).
 
-4. <strong>PI</strong>. Lingnan Faculty Research Grant [2025](https://scholars.ln.edu.hk/en/projects/combining-rigorous-static-analysis-and-flexible-llm-analysis-for-/). [two per year]
+4. <strong>PI</strong>. Lingnan Faculty Research Grant [2025-1st](https://scholars.ln.edu.hk/en/projects/combining-rigorous-static-analysis-and-flexible-llm-analysis-for-/), 2025-2nd. [two per year]
 
 3. <strong>PI</strong>. Lingnan Professional Allowance Fund per year, added with the Staff Publication Reward Scheme (SPRS) per year.
 
