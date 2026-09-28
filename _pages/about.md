@@ -43,8 +43,6 @@ Specifically, our research focuses on the following key areas:
 
 Through close collaboration with experts from diverse disciplines, AIS2Lab aims to build secure and responsible AI systems that benefit both technology and society.
 To realize this vision, we are always seeking <strong>self-motivated</strong> and persistent students (PhD/Postdoc/Interns; not hiring RAs) with backgrounds or strong interests in AI/LLMs, blockchain, GPU and medical software, programming languages, and fuzzing to join AIS2Lab. We value [persistence](https://www.cse.cuhk.edu.hk/~cslui/potential_students.html) and a commitment to research excellence.
-<br>
-Currently, we have the following priority openings:
 
 <div style="background-color: #f3f4f6; border-left: 4px solid #6c63ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 8px;">
 We are looking for multiple candidates for <strong>Regular PhD Admission</strong> <font color="red">(due: mid-Jan 2027)</font> and <strong>HKPFS</strong> <font color="red">(due: 1 Dec 2026)</font>, who expect to work on meaningful topics on AI and security. Feel free to <a href="mailto:daoyuanwu@ln.edu.hk">Email Us</a> with your CV and Transcript!
