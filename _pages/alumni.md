@@ -14,7 +14,6 @@ nav_order: 3
 1. Dr. [Han Liu](https://helayliu.github.io/): 2024.09-2026.02 at HKUST, partially supported by the TLIP project and co-hosted with Prof. Shuai Wang; Next: Associate Professor at Nankai University.
 
 
-
 > PhD/MPhil Students
 
 1. Dr. [Xiao Yi](https://scholar.google.com/citations?user=KrNWJyIAAAAJ&hl=en): AIS2Lab's first PhD student, 2019-23 at CUHK; First job: researcher at Huawei HKRC.
@@ -24,7 +23,6 @@ nav_order: 3
 3. Dr. [Yuqiang Sun](https://aboutme.izaiahsun.com/): 2023.03-2025.08 at NTU, co-advised with Prof. Yang Liu; First job: postdoc at NTU.
 
 4. Dr. [Han Liu](https://helayliu.github.io/): 2023.04-2024.06 at NTU as an exchange student, co-advised with Prof. Yang Liu; First job: postdoc at HKUST.
-
 
 
 > Research Assistants 
@@ -38,7 +36,6 @@ nav_order: 3
 4. Ms. [Wenxin Luo](https://github.com/AIS2Lab/AIS2Lab.github.io/blob/main/_pages/about_wenxin.md): 2025.09 - 2026.09 at Lingnan and CityU.
 
 
-
 > (Remote) Interns
 
 1. Mr. [Xu Yang](https://github.com/yx018): 2021 - 2022 at CUHK; Next: ASTRI. He is the key contributor to CUHK's CDG and VTL projects.
@@ -50,6 +47,10 @@ nav_order: 3
 4. Mr. [Yixuan Yang](https://github.com/AIS2Lab/AIS2Lab.github.io/blob/main/_pages/about_yixuan.md): 2025.06 - 2026.08 at Lingnan as a remote intern; Next: PhD student at PCL Lab and SYSU.
 
 
+> DAIS Students
+
+1. 2026-2028: CHEN Jun, MA Dan, SU Zhou, WANG Pengyu, ZHANG Wenyi.
+
 
 > MSc Students
 
@@ -60,7 +61,6 @@ nav_order: 3
 3. 2021 - 2022: Lu Zhang (helped MagicCrypto; Next: OKX Hong Kong).
 
 
-
 > Industry Collaborators 
 
 1. Mr. [En He](https://blackhat.com/eu-21/briefings/schedule/speakers.html#en-he-40529): OPPO ZIWU Security Lab.
@@ -68,7 +68,6 @@ nav_order: 3
 2. Mr. [Yue Xue](https://scholar.google.com/citations?user=6cdLQQQAAAAJ&hl=en): MetaTrust Labs, OKX, Certik.
 
 3. Ms. [Huinian Yang](https://blackhat.com/eu-22/briefings/schedule/speakers.html#huinian-yang-44658): China Telecom Security Lab.
-
 
 
 > Paper-wise (Co-)Supervised Students or Staff
