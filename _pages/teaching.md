@@ -7,8 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-My teaching spans data mining, generative AI, CS fundamentals,
-blockchain, cybersecurity, and mobile network programming.
+My teaching spans generative AI, blockchain, cybersecurity, data mining, CS fundamentals, and mobile network programming.
 
 ## Lingnan University
 
