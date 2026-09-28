@@ -34,12 +34,6 @@ profiles:
     more_info: >
       <p>PhD Student</p>
   - align: left
-    image: pic_wenxin.jpeg
-    content: about_wenxin.md
-    image_circular: false
-    more_info: >
-      <p>Research Assistant</p>
-  - align: left
     image: pic_haoyuan.png
     content: about_haoyuan.md
     image_circular: false

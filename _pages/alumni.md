@@ -35,6 +35,8 @@ nav_order: 3
 
 3. Mr. [Juantao Zhong](https://github.com/AIS2Lab/AIS2Lab.github.io/blob/main/_pages/about_juantao.md): 2024.09 - 2026.07 at HKUST and Lingnan; Next: PhD student at PolyU.
 
+4. Ms. [Wenxin Luo](https://github.com/AIS2Lab/AIS2Lab.github.io/blob/main/_pages/about_wenxin.md): 2025.09 - 2026.09 at Lingnan and CityU.
+
 
 
 > (Remote) Interns
