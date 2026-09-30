@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publication/";
           },
-        },{id: "nav-open-source",
-          title: "Open Source",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/opensource/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Courses in data science, artificial intelligence, blockchain, and cybersecurity.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-service",
+          title: "Service",
+          description: "Professional service to the research community.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/service/";
           },
         },{id: "nav-funding",
           title: "Funding",
