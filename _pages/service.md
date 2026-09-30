@@ -64,7 +64,7 @@ I contribute to the research community through conference committees, paper shep
 
 ## Journal Reviewer
 
-- **Top journals:** [PNAS](https://www.pnas.org/) · [PNAS Nexus](https://academic.oup.com/pnasnexus)
+- **Top journals:** [PNAS](https://www.pnas.org/)
 - [ACM Transactions on Privacy and Security](https://dl.acm.org/journal/tops)
 - [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
 - [IEEE Transactions on Information Forensics and Security](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security)
@@ -72,6 +72,7 @@ I contribute to the research community through conference committees, paper shep
 - [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)
 - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/csdl/journal/tp)
 - [IEEE Transactions on Mobile Computing](https://www.computer.org/csdl/journal/tm)
+- [PNAS Nexus](https://academic.oup.com/pnasnexus)
 - [Cybersecurity](https://cybersecurity.springeropen.com/)
 - [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
 - [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications)
