@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Courses in data science, artificial intelligence, blockchain, and cybersecurity.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 My teaching spans generative AI, blockchain, cybersecurity, data mining, CS fundamentals, and mobile network programming.
