@@ -47,6 +47,8 @@ I contribute to the research community through conference committees, paper shep
 [ICICS 2021](https://researchr.org/publication/icics-2021-1) ·
 [NOMS 2018](https://noms2018.ieee-noms.org/committee/technical-program-committee.html)
 
+<br>
+
 ## Conference Shepherd
 
 - [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/call-for-papers) — [paper](https://arxiv.org/abs/2405.20653)
@@ -55,9 +57,13 @@ I contribute to the research community through conference committees, paper shep
 - [RAID 2023](https://raid2023.org/call.html) — [paper](https://dl.acm.org/doi/10.1145/3607199.3607236)
 - [ICICS 2021](https://researchr.org/publication/icics-2021-1) — [paper](https://link.springer.com/chapter/10.1007/978-3-030-86890-1_7)
 
+<br>
+
 ## Journal Editorial Board
 
 - Youth Editorial Board Member, [Cybersecurity](https://cybersecurity.springeropen.com/about/editorial-board), July 2025–July 2027.
+
+<br>
 
 ## Journal Reviewer
 
@@ -75,6 +81,8 @@ I contribute to the research community through conference committees, paper shep
 - [IEEE Systems Journal](https://ieeesystemscouncil.org/publication/ieee-systems-journal)
 - [ACM Distributed Ledger Technologies](https://dl.acm.org/journal/dlt)
 - [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)
+
+<br>
 
 ## Workshop Program Committee
 
