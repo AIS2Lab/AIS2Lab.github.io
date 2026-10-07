@@ -31,7 +31,7 @@ nav_order: 7
 
 2. Lingnan PhD Student Fund, used for Mr. CHEN Yufan.
 
-1. Lingnan Presidential Postdoc Quota.
+1. Lingnan Presidential Postdoc Quota (preferably for the candidate planning a long-term career in HK).
 
 
 > Open Fund
