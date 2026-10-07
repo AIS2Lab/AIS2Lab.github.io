@@ -48,6 +48,7 @@ To realize this vision, we are always seeking <strong>self-motivated</strong> an
 We are looking for multiple candidates for <strong>Regular PhD Admission</strong> <font color="red">(due: mid-Jan 2027)</font> and <strong>HKPFS</strong> <font color="red">(due: 1 Dec 2026)</font>, who expect to work on meaningful topics on AI and security. Feel free to <a href="mailto:daoyuanwu@ln.edu.hk">Email Us</a> with your CV and Transcript!
 <br><br>
 We also look for one more <strong>Postdoc Researcher</strong> (any topic), who should demonstrate independent research capability.
+For a candidate planning a long-term career in HK, a <strong>Research Assistant Professor</strong> position could be offered via the [LU Presidential Postdoctoral Research Fellowship Scheme](https://www.ln.edu.hk/hr/career/lu-presidential-postdoctoral-research-fellowship-scheme-pprf).
 <br><br>
 For full-time <strong>RA applicants</strong>, you are <strong>required to pursue a PhD in our group after completing the RA</strong>. Otherwise, we will not consider your application.
 For <strong>remote interns</strong>, there is no such restriction. We always welcome excellent UG students.
