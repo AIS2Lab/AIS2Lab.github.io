@@ -51,6 +51,5 @@ We also look for one more <strong>Postdoc Researcher</strong> (any topic), who s
 For the candidate planning a long-term career in HK, a <strong>Research Assistant Professor</strong> position could be offered via the <a href="https://www.ln.edu.hk/hr/career/lu-presidential-postdoctoral-research-fellowship-scheme-pprf" target="_blank">LU Presidential Postdoctoral Research Fellowship</a>.
 <br><br>
 For <strong>RA applicants</strong>, you are <strong>required to pursue a PhD in our group after completing the RA</strong>. Otherwise, we will not consider your application.
-For <strong>remote interns</strong>, there is no such restriction. We always welcome excellent UG students.
-For remote interns, however, due to salary payment constraints, we can accept only Chinese students.
+For <strong>remote interns</strong>, there is no such restriction, but due to salary payment constraints, we can accept only Chinese students.
 </div>
