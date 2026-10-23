@@ -81,6 +81,9 @@ I contribute to the research community through conference committees, paper shep
 - [ACM Distributed Ledger Technologies](https://dl.acm.org/journal/dlt)
 - [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)
 
+## Workshop Organizator
+
+- [可信区块链论坛](https://chinasoft.ccf.org.cn/2026/#agenda/academic-forum/trusted-blockchain), co-located with [2026 CCF ChinaSoft](https://chinasoft.ccf.org.cn/2026/#home)
 
 ## Workshop Program Committee
 
