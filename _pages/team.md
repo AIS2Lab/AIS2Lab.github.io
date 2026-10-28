@@ -22,6 +22,12 @@ profiles:
     more_info: >
       <p>Postdoc Researcher</p>
   - align: left
+    image: pic_jingyi.jpg
+    content: about_jingyi.md
+    image_circular: false
+    more_info: >
+      <p>Incoming Postdoc Researcher</p>
+  - align: left
     image: pic_yufan.png
     content: about_yufan.md
     image_circular: false
