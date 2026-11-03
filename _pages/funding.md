@@ -36,9 +36,11 @@ nav_order: 7
 
 > Open Fund
 
+3. <strong>PI</strong>. SKLBDS A2618. Hosted by my collaborator, Prof. [Zhiyuan Wan](https://zhiyuan-wan.github.io/), at ZJU.
+
 2. <strong>PI</strong>. SKLICT ICT2026B32. Hosted by my collaborator, Prof. [Jingyi Wang](https://wang-jingyi.github.io/), at ZJU. 
 
-1. <strong>PI</strong>. SKLBDS A2525. Hosted by my collaborator, Prof. [Zhiyuan Wan](https://zhiyuan-wan.github.io/), at ZJU.
+1. <strong>PI</strong>. SKLBDS A2525. Hosted by my collaborator, Prof. [Zhiyuan Wan](https://zhiyuan-wan.github.io/), at ZJU. (Completed)
 
 
 > Completed
