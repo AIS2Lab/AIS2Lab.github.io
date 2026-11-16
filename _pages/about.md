@@ -50,5 +50,5 @@ We are looking for multiple candidates for <strong>Regular PhD Admission</strong
 For <strong>RA applicants</strong>, you are <strong>required to pursue a PhD in our group</strong> after completing the RA.
 For <strong>remote interns</strong>, there is no such restriction, but due to salary payment constraints, we can only take (mainland/HK/overseas) Chinese students.
 <br><br>
-We occasionally offer <strong>Postdoctoral positions</strong>, either grant-funded or through Lingnan <a href="https://www.ln.edu.hk/hr/career/lu-presidential-postdoctoral-research-fellowship-scheme-pprf" target="_blank">Presidential Postdoctoral Research Fellowship Scheme (PPRF)</a>, with PPRF fellows appointed as Research Assistant Professors.
+We occasionally offer <strong>postdoctoral positions</strong>. Please email me to inquire about potential opportunities.
 </div>
