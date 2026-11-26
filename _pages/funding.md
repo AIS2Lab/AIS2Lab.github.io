@@ -9,15 +9,15 @@ nav_order: 7
 
 > Ongoing
 
-12. <strong>PI</strong>. RGC Research Matching Grant Scheme (RMGS) 2026.
+12. <strong>PI</strong>. UGC FITE-IICA (Fund for Innovative Technology-in-Education – Inter-Institutional Collaborative Activities), 2026-29.
 
-11. <strong>Co-PI</strong>. RGC Collaborative Research Fund (CRF) [2025/26](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/25-26.html).
+11. <strong>PI</strong>. RGC Research Matching Grant Scheme (RMGS) 2026.
 
-10. <strong>Co-I</strong>. RGC General Research Fund (GRF) [2025/26](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11603825&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=11603825).
+10. <strong>Co-PI</strong>. RGC Collaborative Research Fund (CRF) [2025/26](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/25-26.html).
 
-9. <strong>PI</strong>. SDF Academic Research Award [2025 Q3](https://research.stellar.org/research-grants/grantees) [Initially awarded in the 2025 Q1 round, withdrawn due to leaving HKUST, then re-applied and re-awarded in 2025 Q3].
+9. <strong>Co-I</strong>. RGC General Research Fund (GRF) [2025/26](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11603825&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=11603825).
 
-8. <strong>PI</strong>. CCF-Huawei Populus Grove Fund [2025](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2025-06-06/844102.shtml).
+8. <strong>PI</strong>. SDF Academic Research Award [2025 Q3](https://research.stellar.org/research-grants/grantees) [Initially awarded in the 2025 Q1 round, withdrawn due to leaving HKUST, then re-applied and re-awarded in 2025 Q3].
 
 7. <strong>PI</strong>. Lingnan Innovation and Impact Fund [2026](https://scholars.ln.edu.hk/en/projects/a-unified-platform-for-benchmarking-the-security-of-ai-agents-acr/).
 
@@ -44,6 +44,8 @@ nav_order: 7
 
 
 > Completed
+
+9. <strong>PI</strong>. CCF-Huawei Populus Grove Fund [2025](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/hw/2025-06-06/844102.shtml).
 
 8. <strong>PI</strong>. UGC-funded HKUST Teaching and Learning Innovation Projects (TLIP) [2024/25](https://cei.hkust.edu.hk/en-hk/projects-and-funding/teaching-and-learning-innovative-projects/funded-projects?field_project_year_target_id%5B%5D=287).
 
