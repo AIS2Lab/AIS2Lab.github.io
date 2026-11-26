@@ -11,7 +11,7 @@ nav_order: 7
 
 12. <strong>PI</strong>. UGC FITE-IICA (Fund for Innovative Technology-in-Education – Inter-Institutional Collaborative Activities), [2026-29](https://www.ugc.edu.hk/eng/ugc/activity/teach_learn/fite.html).
 
-11. <strong>PI</strong>. RGC Research Matching Grant Scheme (RMGS) 2026.
+11. <strong>PI</strong>. RGC Research Matching Grant Scheme (RMGS) [2026](https://www.ugc.edu.hk/eng/rgc/funding_opport/rmgs/).
 
 10. <strong>Co-PI</strong>. RGC Collaborative Research Fund (CRF) [2025/26](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/25-26.html).
 
