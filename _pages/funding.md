@@ -9,7 +9,7 @@ nav_order: 7
 
 > Ongoing
 
-12. <strong>PI</strong>. UGC FITE-IICA (Fund for Innovative Technology-in-Education – Inter-Institutional Collaborative Activities), 2026-29.
+12. <strong>PI</strong>. UGC FITE-IICA (Fund for Innovative Technology-in-Education – Inter-Institutional Collaborative Activities), [2026-29](https://www.ugc.edu.hk/eng/ugc/activity/teach_learn/fite.html).
 
 11. <strong>PI</strong>. RGC Research Matching Grant Scheme (RMGS) 2026.
 
